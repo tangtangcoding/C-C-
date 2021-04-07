@@ -27,8 +27,8 @@
 -  [C程序设计语言(英文第2版)及其课后题答案)](https://pan.baidu.com/s/1n7cECd_nSf9s1ULlZlnClg)  提取码：4lfl 
 -  [21天学通C语言  第7版](https://pan.baidu.com/s/1egKRQNe3OuF8ZPAlZ8WDLg)  提取码：n167 
 -  [C 程序设计语言（第2版）](https://pan.baidu.com/s/1ZsqUgbyKZoUvqlfE_UcyZQ)  提取码：gimp   
--  [学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/1s1TwJaAZtZMsHxp2emZ85Q)  提取码：35as
--  [C语言必须知道的300个问题].明日科技.扫描版)](https://pan.baidu.com/s/12hkPnhD11e6mZCia0CubuA)  提取码：c669  
+-  [学通C语言的24堂课.刘彬彬&孙秀梅](https://pan.baidu.com/s/1s1TwJaAZtZMsHxp2emZ85Q)  提取码：35as
+-  [C语言必须知道的300个问题.(明日科技.扫描版)](https://pan.baidu.com/s/12hkPnhD11e6mZCia0CubuA)  提取码：c669  
 
 ## 2 C++
 -  [C++ Primer-第4版](https://pan.baidu.com/s/1pW8SVhUh-eVMmBKBqLENNA)  提取码：jlk8 
@@ -49,7 +49,7 @@
 -  [C++设计新思维-泛型编程与设计之应用](https://pan.baidu.com/s/1axca0VwjJC1R5SuMjQqQlQ)  提取码：wtto   
 -  [Effective-C++-第二版](https://pan.baidu.com/s/1cPlbctq5xxPooGjn-xVUbA)  提取码：x84j    
 -  [C++程序设计语言](https://pan.baidu.com/s/1dMnEo_l1ou5e4o8PM5gAag)  提取码：qdyt   
--  [C++大学教程(https://pan.baidu.com/s/1eBRPORjpKEWsqoZaYXqujQ )  提取码：60po
+-  [C++大学教程](https://pan.baidu.com/s/1eBRPORjpKEWsqoZaYXqujQ )  提取码：60po
 -  [跟我一起写makefile](https://pan.baidu.com/s/1tKKNUGVXw8MwJ1JT_Rk2LQ)  提取码：aiml  
 -  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1b0x4r6gYTx456KTSyFOVfg)  提取码：xbrx   
 -  [深入理解C++11](https://pan.baidu.com/s/1OwNXvik1RQ2frNYvbxDBxw)  提取码：nj4s
