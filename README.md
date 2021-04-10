@@ -218,9 +218,27 @@
 -  [数据结构与算法 Python语言描述_裘宗燕](https://pan.baidu.com/s/1Yyg0wZOgxCa3f6Kj3gmPhQ)  提取码：fihe  
 -  [算法谜题](https://pan.baidu.com/s/1wAXFU1C4hkWfzEQ9wMitfw )  提取码：yoo5  
 -  [算法导论_原书第3版_CHS](https://pan.baidu.com/s/1lTJqXT_HQ5RaAooj13sXPw)  提取码：eyk6 
+-  [严蔚敏：数据结构题集(C语言版)](https://pan.baidu.com/s/1BmJdS6vCS_Ocu6adl1U5bw)  提取码：7w2i 
+-  [妙趣横生的算法（C语言实现 第2版）](https://pan.baidu.com/s/1LY7wjSpIoEuVpnesL3a2Hw )  提取码：pb8n
+-  [算法图解](https://pan.baidu.com/s/1iLldu-JH-nzXXCRse9goyg )  提取码：ar4z
+-  [算法导论中文版](https://pan.baidu.com/s/1kJyXtbQayRaNk4iK3sHJQQ )  提取码：o7oa 
+-  [算法分析与设计](https://pan.baidu.com/s/1L2pU1c30Qy18jlChlpkuIw )  提取码：ick2  
+-  [数据结构与算法分析：C语言描述_原书第2版_高清版](https://pan.baidu.com/s/1V1yYV2wVkMUpNXCrKFY9pQ )  提取码：w38b
+-  [数据结构 C语言 严蔚敏 pdf](https://pan.baidu.com/s/122Ip_NrHohLevC2trLJscQ )  提取码：k77t  
+-  [数据结构与算法分析C++描述](https://pan.baidu.com/s/1RjCAGdn61VxTkbAac0OSxQ)  提取码：s5gl
+-  [数据结构与算法分析——Java语言描述](https://pan.baidu.com/s/1_0Zm2F7fqTbSnVky4pi6Eg )  提取码：y8pn 
+-  [剑指offer](https://pan.baidu.com/s/1KZ3dFJKsDVkxTynDSmLAcg)  提取码：8rrm 
+-  [程序员面试金典](https://pan.baidu.com/s/1TbsswukWkynl6-zSy5jmAA )  提取码：i16z  
+-  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/1_K0JwALHImKS25zgChAuRA )  提取码：u8ga 
 
 
 
+-  [数据结构 C语言 严蔚敏 pdf](https://pan.baidu.com/s/122Ip_NrHohLevC2trLJscQ )  提取码：k77t  
+-  [数据结构与算法分析C++描述](https://pan.baidu.com/s/1RjCAGdn61VxTkbAac0OSxQ)  提取码：s5gl
+-  [数据结构与算法分析——Java语言描述](https://pan.baidu.com/s/1_0Zm2F7fqTbSnVky4pi6Eg )  提取码：y8pn 
+-  [剑指offer](https://pan.baidu.com/s/1KZ3dFJKsDVkxTynDSmLAcg)  提取码：8rrm 
+-  [程序员面试金典](https://pan.baidu.com/s/1TbsswukWkynl6-zSy5jmAA )  提取码：i16z  
+-  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/1_K0JwALHImKS25zgChAuRA )  提取码：u8ga 
 
 
 
