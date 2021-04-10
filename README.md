@@ -212,6 +212,12 @@
 ## 6 数据结构与算法
 
 
+-  [算法（第4版）](https://pan.baidu.com/s/1Q0053A05dKkr6qfaUqfoVQ )  提取码：do3p 
+-  [挑战程序设计竞赛(第2版)](https://pan.baidu.com/s/1MbwT7gXrm8DeIXZ51gTE0Q )  提取码：wh59
+-  [挑战程序设计竞赛(第1版)](https://pan.baidu.com/s/1EkZccNSp-gqc73wjHcnY6A )  提取码：e6zs
+-  [数据结构与算法 Python语言描述_裘宗燕](https://pan.baidu.com/s/1Yyg0wZOgxCa3f6Kj3gmPhQ)  提取码：fihe  
+-  [算法谜题](https://pan.baidu.com/s/1wAXFU1C4hkWfzEQ9wMitfw )  提取码：yoo5  
+-  [算法导论_原书第3版_CHS](https://pan.baidu.com/s/1lTJqXT_HQ5RaAooj13sXPw)  提取码：eyk6 
 
 
 
