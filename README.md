@@ -230,15 +230,26 @@
 -  [剑指offer](https://pan.baidu.com/s/1KZ3dFJKsDVkxTynDSmLAcg)  提取码：8rrm 
 -  [程序员面试金典](https://pan.baidu.com/s/1TbsswukWkynl6-zSy5jmAA )  提取码：i16z  
 -  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/1_K0JwALHImKS25zgChAuRA )  提取码：u8ga 
+-  [大话数据结构](https://pan.baidu.com/s/1c3j4UjO0LaSTR2Z6PIf_NQ )  提取码：er84  
+-  [计算机程序设计艺术卷三：排序与查找](https://pan.baidu.com/s/15vKe6gN4zAvpu9-3ki3umg )  提取码：80nf 
+-  [计算机程序设计艺术卷二：半数值算法](https://pan.baidu.com/s/1PpiELJN1TxXWelCuLXVTUg  )  提取码：y62v
+-  [漫画算法：小灰的算法之旅](https://pan.baidu.com/s/1UoxMXXfkeBJGpHh7oP3F3A )  提取码：lxqh
+-  [编程之美-完整版](https://pan.baidu.com/s/1_tLeZ6ksq1XTzzgehgVIig )  提取码：17cu  
+-  [计算机程序设计艺术卷一：基本算法](https://pan.baidu.com/s/1GMHo78uPk76uXWKQWpdpwQ  )  提取码：61gz 
+-  [编程珠玑 第二版 人民邮电出版社](https://pan.baidu.com/s/1LntfZYyXykW3mWYrr3sf4A )  提取码：zf71  
+-  [程序员的算法趣题](https://pan.baidu.com/s/111IAXtyjHmbuULEnkuLYDw )  提取码：droh  
+-  [编程珠玑 英文第二版-Programming.Pearls](https://pan.baidu.com/s/1HRzmgej4uD57lHbwOYqZAg )  提取码：bjyz 
+-  [背包九讲](https://pan.baidu.com/s/1UgLnxICaFGvNlnM4ayVoSA  )  提取码：4k9l 
+-  [啊哈！算法 哈磊](https://pan.baidu.com/s/1C1g8g4uWjtb5klwy8AEruQ )  提取码：v9i8 
+-  [labuladong的算法小抄官方完整版](https://pan.baidu.com/s/1GHAEUzPc61T18AP1nOCsmA )  提取码：40n0 
+-  [cookbook-LeetCode](https://pan.baidu.com/s/1l7gruXbWF77dY1CbmpN6qw )  提取码：37hk 
+-  [Java数据结构和算法.（第二版）](https://pan.baidu.com/s/1oiU99SNS4znfewSTFnXd3Q)  提取码：f0ah  
+-  [Sedgewick-Algorithms](https://pan.baidu.com/s/1-uFx0F0m35hw6McEcYJQUQ )  提取码：cedx 
+-  [JavaScrit数据结构与算法（第2版）](https://pan.baidu.com/s/1hA9muRtlmE-7x-nOm3SD-g )  提取码：70xq  
+-  [Cormen-Introduction to Algorithms](https://pan.baidu.com/s/1ZWgbxq48cC7A64QviybXXg )  提取码：tlz5 
 
 
 
--  [数据结构 C语言 严蔚敏 pdf](https://pan.baidu.com/s/122Ip_NrHohLevC2trLJscQ )  提取码：k77t  
--  [数据结构与算法分析C++描述](https://pan.baidu.com/s/1RjCAGdn61VxTkbAac0OSxQ)  提取码：s5gl
--  [数据结构与算法分析——Java语言描述](https://pan.baidu.com/s/1_0Zm2F7fqTbSnVky4pi6Eg )  提取码：y8pn 
--  [剑指offer](https://pan.baidu.com/s/1KZ3dFJKsDVkxTynDSmLAcg)  提取码：8rrm 
--  [程序员面试金典](https://pan.baidu.com/s/1TbsswukWkynl6-zSy5jmAA )  提取码：i16z  
--  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/1_K0JwALHImKS25zgChAuRA )  提取码：u8ga 
 
 
 
