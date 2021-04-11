@@ -283,6 +283,34 @@
 
 ## 9 操作系统
 
+-  [深入理解计算机系统 第3版](https://pan.baidu.com/s/1JVa69bEw7Q3GxWn3t7ymNw )  提取码：3vzo 
+-  [操作系统真象还原](https://pan.baidu.com/s/14ol9o2sglDujPWrp98YJlw )  提取码：pdgp
+-  [现代操作系统（第三版）中文版](https://pan.baidu.com/s/1pRXAx2P4VEmbitrkUf0Ilw )  提取码：xsnt 
+-  [自己动手写操作系统](https://pan.baidu.com/s/1pCbKNhlgrRx67y92whQ5qQ )  提取码：ofi0 
+-  [分布式系统概念与设计 原书第5版](https://pan.baidu.com/s/1CbLm4T0DgLpn405-jdcIxA )  提取码：s4k5
+-  [计算机系统要素 - 从零开始构建现代计算机](https://pan.baidu.com/s/1whOvfr_J9qN46xEZqI6Sgg)  提取码：mbjf 
+-  [操作系统之哲学原理 第2版](https://pan.baidu.com/s/13kKd7TKvycFU10HcItx68g )  提取码：wq0n 
+-  [现代操作系统 - 英文版](https://pan.baidu.com/s/13BnuOS7DoW_H_e3F-r-3rw)  提取码：yde0 
+-  [编译原理](https://pan.baidu.com/s/1xaVFB-Xd79lmibv6ehwuSA)  提取码：fkpp 
+-  [操作系统概念](https://pan.baidu.com/s/1oZpjj7JTfNsAHO3eESt0jw )  提取码：qlsk 
+-  [Orange's一个操作系统的实现](https://pan.baidu.com/s/1CoYNr_DuelYbqBC3A15-1Q  )  提取码：7bhj 
+-  [操作系统精髓与设计原理 第8版](https://pan.baidu.com/s/10qdj612xnt3G6cPgG9hkig)  提取码：q5nd 
+-  [CMU2017-Lab](https://pan.baidu.com/s/177DGhCLGOXrK1Hn5k4u6JQ )  提取码：cjqn 
+-  [操作系统精髓与设计原理 第9版](https://pan.baidu.com/s/17ooOYZVAIRJXLCQnj5bEww)  提取码：osjn 
+-  [Compilers_ Principles, Techniques, and Tools](https://pan.baidu.com/s/1KJvs7cxdhuzk7-q_usct0Q )  提取码：759y  
+-  [操作系统设计与实现](https://pan.baidu.com/s/1rfMZAhVCRFEe3LdDLCozFA )  提取码：t1x7
+-  [30天自制操作系统 (图灵程序设计丛书)](https://pan.baidu.com/s/13-nqrjPKcuzK0Rz3NGaIMQ)  提取码：3j0u  
+-  [操作系统概念 - 英文版](https://pan.baidu.com/s/1EP9A-fCj92knQS8a80PTiw )  提取码：tdcx 
+-  [Computer Systems_ A Programmer's Perspective](https://pan.baidu.com/s/1MUusMqDlBAQcsHmmIjVBIA )  提取码：kfj6 
+
+## 10 Linux
+
+
+
+
+
+
+
 
 
 
