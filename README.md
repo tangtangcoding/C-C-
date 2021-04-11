@@ -305,6 +305,42 @@
 
 ## 10 Linux
 
+-  [Linux_UNIX系统编程手册（上）](https://pan.baidu.com/s/1vVPe89RJcq5f_TkfDz5p-w )  提取码：dv4j 
+-  [Linux_UNIX系统编程手册（下）](https://pan.baidu.com/s/1UkAOsxamvg9il21QCef7vw  )  提取码：shki   
+-  [鸟哥的Linux私房菜基础篇和服务器篇](https://pan.baidu.com/s/1W28DmeOqAWzgAeQ9R8RLUw )  提取码：73oj 
+-  [《UNIX系统编程手册 上》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1xFvN1mkj_NXzA5Xv4WAErg)  提取码：zpwo 
+-  [Linux高级程序设计中文第三版杨宗德--人电出版社](https://pan.baidu.com/s/1ayokvYCPKizDWzvv_RadUw )  提取码：lvlt  
+-  [《UNIX系统编程手册 下》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1WZTVcfKSmz4DuGOM2nkf_w )  提取码：xpgo 
+-  [Unix & Linux 大学教程](https://pan.baidu.com/s/15PhZkqabRxLZzww9sHqz4w )  提取码：l7ss 
+-  [汇编语言基于linux环境第3版](https://pan.baidu.com/s/1dEbYGk8FXbum07M7OcvvVw  )  提取码：7c84  
+-  [[Linux命令详解词典].施威铭研究室.扫描版](https://pan.baidu.com/s/1_1EX_i6LcCLOmbIXX7nQEQ  )  提取码：bv3d 
+-  [UNIX网络编程卷1 API](https://pan.baidu.com/s/1EvE740HuQI0KAisA8m5Cfg )  提取码：kc7v 
+-  [UNIX网络编程卷2：进程间通信](https://pan.baidu.com/s/1mRgyq6jGiThPyDBsDlStag )  提取码：nc97  
+-  [深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)](https://pan.baidu.com/s/1g0JETSOxrV_DZYJrYJcy3g  )  提取码：sztg 
+-  [LINUX防火墙（原书第3版）](https://pan.baidu.com/s/102DQqScp1Lu1Orat05IBew )  提取码：7bt1
+-  [Linux内核设计与实现 第3版_优先看](https://pan.baidu.com/s/1MSwkaeUuuUQV87lNqI-4KQ )  提取码：u0yv 
+-  [UNIX 环境高级编程 第3版](https://pan.baidu.com/s/1lSKiqX_gAaqRDAOYSVUqrQ  )  提取码：nkgo 
+-  [Linux 内核设计与实现](https://pan.baidu.com/s/13NHFz9k9fAfzZr8l5s0yGQ )  提取码：myrq 
+-  [Linux环境编程：从应用到内核](https://pan.baidu.com/s/1wTOcuOnnlp-KrILN2Tl90A )  提取码：rewx 
+-  [Harley Hahn's Guide to UNIX and Linux](https://pan.baidu.com/s/1vi_qPyNoHlAuVEeabLe4bg )  提取码：fbb5 
+-  [linux内核完全注释](https://pan.baidu.com/s/1xPSQzQRTK1XM1W7B3IygNw  )  提取码：gk9j 
+-  [Linux Kernel Development](https://pan.baidu.com/s/1REb3euW_ifGxKC1ntXe8wg  )  提取码：4z24 
+-  [linux常用命令大全](https://pan.baidu.com/s/1j-P9nlwb5yVRBmUC7_yr1Q  )  提取码：mx7v 
+-  [Linux系统命令及shell脚本实践指南linuxunix技术丛书](https://pan.baidu.com/s/1kLflQk54q7ZRjbVeumbTug)  提取码：lnsy 
+-  [Advanced Programming in the UNIX® Environment](https://pan.baidu.com/s/11OuZ4ye-d3JiyWDkt_bDjQ )  提取码：wwny 
+
+
+## 11 汇编语言
+
+## 12 数据库
+
+## 13 设计模式
+
+
+
+
+
+
 
 
 
