@@ -251,13 +251,14 @@
 
 ## 7 计算机系统知识
 
--  [计算机组成与设计：硬件_软件接口](https://pan.baidu.com/s/170dBO4gvJa-U6k0Tf6x4rA  )  提取码：3uey 
--  [计算机是怎样跑起来的](https://pan.baidu.com/s/1GYQUzJf5EJln_qT0PKSrwA )  提取码：z3eg 
--  [程序员的自我修养—链接、装载与库--书签目录](https://pan.baidu.com/s/1YljFLHT0LKGzPTuxP0knmw)  提取码：qevg 
--  [Patterson-Computer Organization and Design_The Hardware_Software Interface](https://pan.baidu.com/s/10jfQpKbvTCWURWZ0wJYR8A )  提取码：8gfp 
--  [程序是怎样跑起来的](https://pan.baidu.com/s/13QhVg59ORdPxVntVe0ojXg )  提取码：y1zl  
--  [《大话计算机》](https://pan.baidu.com/s/1yAXI9SvpFtHGtE8hPoX3Ug)  提取码：qisb 
--  [编码：隐匿在计算机软硬件背后的语言英文版](https://pan.baidu.com/s/10iYG6qlvcThruNLpvjvbPQ  )  提取码：1bl2 
+-  [计算机组成与设计：硬件_软件接口](https://pan.baidu.com/s/1YJISmqHpnGdO2tz27FfWMw  )  提取码：y35y 
+-  [计算机是怎样跑起来的](https://pan.baidu.com/s/1l12egVH4bRPZCuesQhPpNw )  提取码：aqhp  
+-  [程序员的自我修养—链接、装载与库--书签目录](https://pan.baidu.com/s/1jc5ayuGJpcf5A-nn4n3G8Q )  提取码：2gnt 
+-  [Patterson-Computer Organization and Design_The Hardware_Software Interface](https://pan.baidu.com/s/1zc-4Hn2NEi4KXkpRL3cGyA  )  提取码：qt9j 
+-  [程序是怎样跑起来的](https://pan.baidu.com/s/1Mdi5SLq-MdxfqNFvrhv0FQ )  提取码：gle6  
+-  [《大话计算机》](https://pan.baidu.com/s/1y4hMFuc55ZaBhMuswMS6GQ )  提取码：iyeh 
+-  [编码：隐匿在计算机软硬件背后的语言英文版](https://pan.baidu.com/s/1Rrjv7hGNmuLtD6gYBNkuyw  )  提取码：g6in 
+
 
 ## 8 计算机网路
 
