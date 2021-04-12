@@ -282,28 +282,25 @@
 -  [Computer Networking_ A Top-down Approach](https://pan.baidu.com/s/17oZK_jLBqq9aE4CIHA0UVw )  提取码：3i1q 
 
 
-
 ## 9 操作系统
 
--  [深入理解计算机系统 第3版](https://pan.baidu.com/s/1JVa69bEw7Q3GxWn3t7ymNw )  提取码：3vzo 
--  [操作系统真象还原](https://pan.baidu.com/s/14ol9o2sglDujPWrp98YJlw )  提取码：pdgp
--  [现代操作系统（第三版）中文版](https://pan.baidu.com/s/1pRXAx2P4VEmbitrkUf0Ilw )  提取码：xsnt 
--  [自己动手写操作系统](https://pan.baidu.com/s/1pCbKNhlgrRx67y92whQ5qQ )  提取码：ofi0 
--  [分布式系统概念与设计 原书第5版](https://pan.baidu.com/s/1CbLm4T0DgLpn405-jdcIxA )  提取码：s4k5
--  [计算机系统要素 - 从零开始构建现代计算机](https://pan.baidu.com/s/1whOvfr_J9qN46xEZqI6Sgg)  提取码：mbjf 
--  [操作系统之哲学原理 第2版](https://pan.baidu.com/s/13kKd7TKvycFU10HcItx68g )  提取码：wq0n 
--  [现代操作系统 - 英文版](https://pan.baidu.com/s/13BnuOS7DoW_H_e3F-r-3rw)  提取码：yde0 
--  [编译原理](https://pan.baidu.com/s/1xaVFB-Xd79lmibv6ehwuSA)  提取码：fkpp 
--  [操作系统概念](https://pan.baidu.com/s/1oZpjj7JTfNsAHO3eESt0jw )  提取码：qlsk 
--  [Orange's一个操作系统的实现](https://pan.baidu.com/s/1CoYNr_DuelYbqBC3A15-1Q  )  提取码：7bhj 
--  [操作系统精髓与设计原理 第8版](https://pan.baidu.com/s/10qdj612xnt3G6cPgG9hkig)  提取码：q5nd 
--  [CMU2017-Lab](https://pan.baidu.com/s/177DGhCLGOXrK1Hn5k4u6JQ )  提取码：cjqn 
--  [操作系统精髓与设计原理 第9版](https://pan.baidu.com/s/17ooOYZVAIRJXLCQnj5bEww)  提取码：osjn 
--  [Compilers_ Principles, Techniques, and Tools](https://pan.baidu.com/s/1KJvs7cxdhuzk7-q_usct0Q )  提取码：759y  
--  [操作系统设计与实现](https://pan.baidu.com/s/1rfMZAhVCRFEe3LdDLCozFA )  提取码：t1x7
--  [30天自制操作系统 (图灵程序设计丛书)](https://pan.baidu.com/s/13-nqrjPKcuzK0Rz3NGaIMQ)  提取码：3j0u  
--  [操作系统概念 - 英文版](https://pan.baidu.com/s/1EP9A-fCj92knQS8a80PTiw )  提取码：tdcx 
--  [Computer Systems_ A Programmer's Perspective](https://pan.baidu.com/s/1MUusMqDlBAQcsHmmIjVBIA )  提取码：kfj6 
+-  [深入理解计算机系统 第3版](https://pan.baidu.com/s/1mhfGB1W79ANWMBH4-L3H9g  )  提取码：0vyr 
+-  [操作系统真象还原](https://pan.baidu.com/s/15sE9QPhlmdPovo0sSsTQ2g  )  提取码：wzwl 
+-  [现代操作系统（第三版）中文版](https://pan.baidu.com/s/1hBunMA9vl71YcTLT1QWSJg  )  提取码：0hxr 
+-  [自己动手写操作系统](https://pan.baidu.com/s/1OTUmIXcyen8gZzuXRuGzQg )  提取码：02pa 
+-  [分布式系统概念与设计 原书第5版](https://pan.baidu.com/s/1JWFdQ4SM3lCrIUQyEX-vGw  )  提取码：22ok 
+-  [计算机系统要素 - 从零开始构建现代计算机](https://pan.baidu.com/s/1J4WbxixRpXJqo8el-D0ZdA )  提取码：gis3 
+-  [操作系统之哲学原理 第2版](https://pan.baidu.com/s/1OPsbGeLY-436FYhmxWpbeQ  )  提取码：jcdy 
+-  [现代操作系统 - 英文版](https://pan.baidu.com/s/1-5IB307X6s9__wptejV0Yw )  提取码：j06x 
+-  [编译原理](https://pan.baidu.com/s/1TG2VEwvMT_8hH58G2ir58A )  提取码：4c8n 
+-  [操作系统概念](https://pan.baidu.com/s/1AZPgXq4MF4cilnjytniU5g  )  提取码：9ejn 
+-  [Orange's一个操作系统的实现](https://pan.baidu.com/s/1lGeTl7FGJoLdsMszLJilyw )  提取码：fw2i 
+-  [操作系统精髓与设计原理 第8版](https://pan.baidu.com/s/1HRran0kTUEvE4K3eMA2tqQ )  提取码：hu5w 
+-  [CMU2017-Lab](https://pan.baidu.com/s/1YzQg_MyYnCm8fhMgdIubTQ  )  提取码：ahha 
+-  [操作系统精髓与设计原理 第9版](https://pan.baidu.com/s/10qdj612xnt3G6cPgG9hkig )  提取码：fw2i 
+-  [Compilers_ Principles, Techniques, and Tools](https://pan.baidu.com/s/1zdquDVffnvOcVn-XqufFTQ  )  提取码：ntrl 
+-  [30天自制操作系统 (图灵程序设计丛书)](https://pan.baidu.com/s/1F7_aRjuDEqPsqdc0onxfBA )  提取码：ht4l  
+-  [Computer Systems_ A Programmer's Perspective](https://pan.baidu.com/s/1s9jnHvquefDZ6umoo9DOLg  )  提取码：4qc4 
 
 ## 10 Linux
 
