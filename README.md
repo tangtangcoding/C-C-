@@ -24,13 +24,12 @@
 -  [C和指针（中文版）](https://pan.baidu.com/s/10Qh5fDlE6AQfbpO8KVoWvQ  )  提取码：ktkp 
 -  [C程序设计语言(英文第2版)及其课后题答案](https://pan.baidu.com/s/1YPaZ8D71BQktFEKhrG3tpQ  )  提取码：dzso  
 -  [C程序设计语言（第2版 新版）及课后答案](https://pan.baidu.com/s/1VrQFwY1ucBKKEZMfEsiwnA )  提取码：12jx 
--  [C 程序设计语言（第2版）](https://pan.baidu.com/s/19yFwEWDfC Primer Plus 第6版 中文版HaP95xK4sT_TwA  )  提取码：0159 
+-  [C 程序设计语言（第2版）](https://pan.baidu.com/s/1fE6dEGptSQJIbVlTiawdEQ  )  提取码：ebtd 
 -  [C Primer Plus 中英版](https://pan.baidu.com/s/1ZmnrD-lcLVoKatTjq8stiA  )  提取码：3433  
 -  [C Primer Plus 第6版 中文版](https://pan.baidu.com/s/12O0IjciWo5JK-U9Shd7A-Q  )  提取码：12a0 
 -  [21天学通C语言  第7版](https://pan.baidu.com/s/1h6-oPYPHrUN3CNm0aJKBCg  )  提取码：ryw8  
 -  [[学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/1b_bp75ztF0cxVuJ2OA6s-w )  提取码：jvq9 
--  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1d1TZAhiXaqdw0zsdC)  提取码：to2k 
-
+-  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1FM8-8dUGHfp2l0sSVrDpSg )  提取码：bqzu  
 
 
 ## 2 C++
