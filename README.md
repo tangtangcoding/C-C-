@@ -303,29 +303,30 @@
 
 ## 10 Linux
 
--  [Linux_UNIX系统编程手册（上）](https://pan.baidu.com/s/1vVPe89RJcq5f_TkfDz5p-w )  提取码：dv4j 
--  [Linux_UNIX系统编程手册（下）](https://pan.baidu.com/s/1UkAOsxamvg9il21QCef7vw  )  提取码：shki   
--  [鸟哥的Linux私房菜基础篇和服务器篇](https://pan.baidu.com/s/1W28DmeOqAWzgAeQ9R8RLUw )  提取码：73oj 
--  [《UNIX系统编程手册 上》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1xFvN1mkj_NXzA5Xv4WAErg)  提取码：zpwo 
--  [Linux高级程序设计中文第三版杨宗德--人电出版社](https://pan.baidu.com/s/1ayokvYCPKizDWzvv_RadUw )  提取码：lvlt  
--  [《UNIX系统编程手册 下》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1WZTVcfKSmz4DuGOM2nkf_w )  提取码：xpgo 
--  [Unix & Linux 大学教程](https://pan.baidu.com/s/15PhZkqabRxLZzww9sHqz4w )  提取码：l7ss 
--  [汇编语言基于linux环境第3版](https://pan.baidu.com/s/1dEbYGk8FXbum07M7OcvvVw  )  提取码：7c84  
--  [[Linux命令详解词典].施威铭研究室.扫描版](https://pan.baidu.com/s/1_1EX_i6LcCLOmbIXX7nQEQ  )  提取码：bv3d 
--  [UNIX网络编程卷1 API](https://pan.baidu.com/s/1EvE740HuQI0KAisA8m5Cfg )  提取码：kc7v 
--  [UNIX网络编程卷2：进程间通信](https://pan.baidu.com/s/1mRgyq6jGiThPyDBsDlStag )  提取码：nc97  
--  [深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)](https://pan.baidu.com/s/1g0JETSOxrV_DZYJrYJcy3g  )  提取码：sztg 
--  [LINUX防火墙（原书第3版）](https://pan.baidu.com/s/102DQqScp1Lu1Orat05IBew )  提取码：7bt1
--  [Linux内核设计与实现 第3版_优先看](https://pan.baidu.com/s/1MSwkaeUuuUQV87lNqI-4KQ )  提取码：u0yv 
--  [UNIX 环境高级编程 第3版](https://pan.baidu.com/s/1lSKiqX_gAaqRDAOYSVUqrQ  )  提取码：nkgo 
--  [Linux 内核设计与实现](https://pan.baidu.com/s/13NHFz9k9fAfzZr8l5s0yGQ )  提取码：myrq 
--  [Linux环境编程：从应用到内核](https://pan.baidu.com/s/1wTOcuOnnlp-KrILN2Tl90A )  提取码：rewx 
--  [Harley Hahn's Guide to UNIX and Linux](https://pan.baidu.com/s/1vi_qPyNoHlAuVEeabLe4bg )  提取码：fbb5 
--  [linux内核完全注释](https://pan.baidu.com/s/1xPSQzQRTK1XM1W7B3IygNw  )  提取码：gk9j 
--  [Linux Kernel Development](https://pan.baidu.com/s/1REb3euW_ifGxKC1ntXe8wg  )  提取码：4z24 
--  [linux常用命令大全](https://pan.baidu.com/s/1j-P9nlwb5yVRBmUC7_yr1Q  )  提取码：mx7v 
--  [Linux系统命令及shell脚本实践指南linuxunix技术丛书](https://pan.baidu.com/s/1kLflQk54q7ZRjbVeumbTug)  提取码：lnsy 
--  [Advanced Programming in the UNIX® Environment](https://pan.baidu.com/s/11OuZ4ye-d3JiyWDkt_bDjQ )  提取码：wwny 
+-  [深入Linux内核架构 (图灵程序设计丛书·LinuxUNIX系列)](https://pan.baidu.com/s/1NHOhAsqWZKc_T-fgAUdasA  )  提取码：1h66 
+-  [鸟哥的Linux私房菜基础篇和服务器篇](https://pan.baidu.com/s/14zOVy3cffprJRKYn3GJdiQ )  提取码：rszx
+-  [汇编语言基于linux环境第3版](https://pan.baidu.com/s/1xefUULAlVaZM8o3bHlU7dg  )  提取码：m9op 
+-  [UNIX网络编程卷2：进程间通信](https://pan.baidu.com/s/1qNFDjWHNLpiJi1O60zkpbA )  提取码：29gn 
+-  [UNIX网络编程卷1 API](https://pan.baidu.com/s/1jQSnM2YPxwIiI9C03_hiQQ )  提取码：bful 
+-  [UNIX 环境高级编程 第3版](https://pan.baidu.com/s/1JssCdx2yrj_jgRSBxb2wBw )  提取码：3dwv 
+-  [Unix & Linux 大学教程](https://pan.baidu.com/s/197bOSTAX8HvPgcLfa9g8HQ  )  提取码：n5xm 
+-  [Linux系统命令及shell脚本实践指南linuxunix技术丛书](https://pan.baidu.com/s/1XJTNNDGpkWO8eFwVkJgy3Q )  提取码：mhca 
+-  [linux内核完全注释](https://pan.baidu.com/s/1ymU8j9jD5hC64qbqgCZWQg )  提取码：xirl 
+-  [Linux内核设计与实现 第3版_优先看](https://pan.baidu.com/s/1Wv5C956vEYZqPB5RuwqF2g )  提取码：do5m 
+-  [Linux环境编程：从应用到内核](https://pan.baidu.com/s/1ga9GEIXwMP1lG7yxMcwedg )  提取码：7w4x 
+-  [Linux高级程序设计中文第三版杨宗德--人电出版社](https://pan.baidu.com/s/19tbW1jlQRY3vxBoRPo7EBA )  提取码：80bx 
+-  [LINUX防火墙（原书第3版）](https://pan.baidu.com/s/1997I5p6pC_iFDjMaPSUr8w  )  提取码：n8p1 
+-  [linux常用命令大全](https://pan.baidu.com/s/1zGL1MNe2DFv6CGbfw4GqWw  )  提取码：4hbs 
+-  [Linux_UNIX系统编程手册（下）](https://pan.baidu.com/s/10tvyBCSASP3efSmjv-csGQ  )  提取码：1t0f 
+-  [Linux_UNIX系统编程手册（上）](https://pan.baidu.com/s/1i_ZyqSzGsRPXgUflDwoa9g  )  提取码：w21x
+-  [Linux 内核设计与实现](https://pan.baidu.com/s/1wybzOka0ihNuRl1keim-lA  )  提取码：epgt 
+-  [Linux Kernel Development](https://pan.baidu.com/s/1YOaK_LWV805Qidgf5zSV3w  )  提取码：hd05 
+-  [Harley Hahn's Guide to UNIX and Linux](https://pan.baidu.com/s/1r05OlnyjxFkzDXFLPCkV3w  )  提取码：leyy 
+-  [Advanced Programming in the UNIX® Environment](https://pan.baidu.com/s/1G0PwwdpC-ph7je03S3DeMw  )  提取码：ahwd 
+-  [《UNIX系统编程手册 下》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1LEO4Oqw6ka0g_99QarF2hA  )  提取码：9wb9 
+-  [《UNIX系统编程手册 上》.((德)Michael Kerrisk ).[PDF]@ckook](https://pan.baidu.com/s/1dKboHkt7DZrpLC9LEut9_w )  提取码：iewr 
+-  [[Linux命令详解词典].施威铭研究室.扫描版](https://pan.baidu.com/s/1uER5GOHVweGZaKkRQyH3hQ )  提取码：4fko 
+
 
 
 ## 11 汇编语言
