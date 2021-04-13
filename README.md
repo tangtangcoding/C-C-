@@ -69,68 +69,69 @@
 
 ## 3 Java
 
--  [轻量级JavaEE企业应用实战](https://pan.baidu.com/s/1af0mYbOiPC6LkUjp3bhpBw)  提取码：1wvq 
--  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1D2PCmvxC1B-F608t3TVlTQ)  提取码：j0l4   
--  [深入分析JavaWeb技术内幕](https://pan.baidu.com/s/1B8vALyrMxRUGAFlKSy2jnQ)  提取码：uj3f   
--  [深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）](https://pan.baidu.com/s/1vpeP0-VbWV2DyxWYH3t3lg)  提取码：m2m6  
--  [深入剖析Tomcat](https://pan.baidu.com/s/1kHjN79_6ImwvAnXhfifCZw)  提取码：wdvf
--  [大数据架构师指南](https://pan.baidu.com/s/1uRfOrxKAS4nxXOr4tOudBg)  提取码：eg20  
--  [精通spring - Mastering Spring](https://pan.baidu.com/s/1myyAlbfAgZazmsx72KI1Eg)  提取码：446j    
--  [深入学习：JFC SWING—JAVA 基础类组件集](https://pan.baidu.com/s/1oYyfZJ-89Aq04ubn4IXcdw)  提取码：m3ek   
--  [深入JAVA虚拟机](https://pan.baidu.com/s/13_Pn9YP4PVLhgoN5PKyd5A )  提取码：12pl 
--  [精通Struts基于MVC的Java Web设计与开发](https://pan.baidu.com/s/1_vnCBUpcvE_Fdw5VXdkPQg)  提取码：o4ya   
--  [深入JAVA虚拟机第二版](https://pan.baidu.com/s/1nBW7LDIil_vLa-B0docHEg)  提取码：e11k    
--  [深入理解Spark：核心思想与源码分析](https://pan.baidu.com/s/1vlL7ms9WDuA76Oh_yhjggg)  提取码：yubv    
--  [阿里巴巴Java开发手册--泰山版](https://pan.baidu.com/s/1y37-fQuxcPHYfdROY0ht0Q)  提取码：zbea 
--  [阿里巴巴Java开发手册--1.3.0终极版](https://pan.baidu.com/s/14Vw3drGg0xv_3LI9GQVcVg)  提取码：57o2 
--  [阿里巴巴Java开发手册v1.2.0](https://pan.baidu.com/s/1XtgbhvxnwSGW1EQ80CH07g)  提取码：45yk   
--  [阿里巴巴Java开发手册--华山版](https://pan.baidu.com/s/1Rhv_EYC6cOwih-yEpILPrw)  提取码：w3t0   
--  [阿里巴巴Java开发手册--1.1.0正式版](https://pan.baidu.com/s/1xer4pKx-Aat3ErMfEiugYQ)  提取码：iilc  
--  [阿里巴巴Java开发手册--1.4.0详尽版](https://pan.baidu.com/s/1oGbVJ92N5Bs3Amfjc9Sh5w)  提取码：knzh
--  [阿里巴巴Java开发手册-嵩山版](https://pan.baidu.com/s/13k7TtQEnT_PMXXTWIpdubw)  提取码：b0f2  
--  [阿里巴巴Java开发手册--1.2.0升级版](https://pan.baidu.com/s/1FbvVUfTSTSddpAisFhv6Yg )  提取码：2fcy    
--  [Java性能优化权威指南](https://pan.baidu.com/s/1haUZiVEaCgjool0zQmElUw)  提取码：eyv1   
--  [阿里巴巴Java开发手册--1.0.0公开版](https://pan.baidu.com/s/1VX3BHmpF5Q3dcQCZlANJZQ)  提取码：w5qz 
--  [spring框架，技术详解及使用指导](https://pan.baidu.com/s/1ELolqS7A6ZNKRqN9e5jocA)  提取码：w1gd  
--  [Spring in action 中文版（第4版）](https://pan.baidu.com/s/1YC2GmGxb7GNL5ZiLeIsWlw )  提取码：59lz    
--  [Spark最佳实践](https://pan.baidu.com/s/1GbD_YIbOsaZStrcVeGhdjA)  提取码：9khg  
--  [Spring 5 Recipes, 4th Edition](https://pan.baidu.com/s/1-TmbRWcDtmJ5M5NuIhstnQ)  提取码：fdac  
--  [Scala编程中文版(33章全)](https://pan.baidu.com/s/1NWlRXWKjYHTzKL6nvIopDQ )  提取码：ay1x 
--  [Spark快速大数据分析](https://pan.baidu.com/s/1fhkub-2JZjEqH38EnpmpYA )  提取码：ovo4    
--  [Maven实战（高清完整带书签）](https://pan.baidu.com/s/1Jufd5igPFhUka_DPTPX-zA)  提取码：p4m3 
--  [Spark机器学习](https://pan.baidu.com/s/17s5QrRZqYdUESzzL5kGqdw)  提取码：7xd5  
--  [JAVA优化编程](https://pan.baidu.com/s/1lNhxw3GmUgcZoktm7tBzqw )  提取码：8kxa 
--  [Spark大数据处理：技术、应用与性能优化(全)](https://pan.baidu.com/s/1jrFFOJEUI57Kyub3Q3dXAQ)  提取码：dzeo   
--  [Java夜未眠_程序员的心声](https://pan.baidu.com/s/1kvP5V_T0_eqYuwUmS9MI5Q)  提取码：xco6
--  [Kafka & Mafka技术分享及讨论](https://pan.baidu.com/s/1PELFlaiMxlVCFFrtyrXZ-g)  提取码：mcxj  
--  [Java语言编码规范](https://pan.baidu.com/s/1mtZoe3zq5Z4tcIii5TX1bw )  提取码：yob2  
--  [Java使用工具](https://pan.baidu.com/s/1V5qGwl1Y2pcOa8VmnbMCmQ)  提取码：hscb    
--  [Java线程](https://pan.baidu.com/s/1i4hm01MtOVSzquEd937A6Q)  提取码：j3bh 
--  [Java核心技术卷1基础知识原书第10版](https://pan.baidu.com/s/1j85YXcztm4_RCrvAuzLsWQ)  提取码：w6hv
--  [Java数据结构和算法中文第二版](https://pan.baidu.com/s/1v2coNQWvInpZ51urTUBp8w)  提取码：9ttt 
--  [Java设计模式之抽象工厂模式](https://pan.baidu.com/s/1CekCtsum5DXPYWnfhHXmNQ)  提取码：z6b4    
--  [Java核心技术（卷2）第8版](https://pan.baidu.com/s/1mro-c4rRIVupExQwtoiZqQ)  提取码：4fhh
--  [Java解惑(中文)](https://pan.baidu.com/s/1JtWDt8HYoRg_QeSlaxg3Jg)  提取码：0pmw 
--  [Java核心技术(卷1）第8版](https://pan.baidu.com/s/1l8Tbkv48KiFkMSz1KxoZyw )  提取码：e7ev
--  [JAVA并发编程实践](https://pan.baidu.com/s/1Hf79VFHrtEKxcTGBDHO51A)  提取码：n9ch   
--  [Java核心技术卷2高级特性原书第10版](https://pan.baidu.com/s/1E40tY1yhmW9PxZ9CeOmqqw )  提取码：ux6y
--  [Java并发编程的艺术](https://pan.baidu.com/s/1ewWu7hCyKTC1MZ2Kb6Uf5Q)  提取码：lckw 
--  [Java从小白到大牛精简版](https://pan.baidu.com/s/1hsFkcs2VnDjDl4ORouG-aw)  提取码：ti5m
--  [Java编辑思想（第四版）](https://pan.baidu.com/s/15YCOdF6Kc3sDBOtkd9n88w)  提取码：htdm  
--  [Java并发程序设计教程](https://pan.baidu.com/s/1EC1B-cCy-CIXpnwN1Ey-Qg )  提取码：ej0v 
--  [Head First Servlet and JSP(高清中文版)](https://pan.baidu.com/s/1uBj3R3pQ01cd7IcmJjS66w)  提取码：dxfd 
--  [Java案例开发](https://pan.baidu.com/s/1UrRCAzqVEJUkGxlBWT6wqA)  提取码：k142 
--  [Java2网络协议技术内幕](https://pan.baidu.com/s/1NpjFz54qdLWE00lui5Njng)  提取码：dzy5 
--  [《码出高效：Java开发手册》](https://pan.baidu.com/s/1_lF9fTDuWu6064o57XtGag )  提取码：yi9c  
--  [Head First Java第二版涵盖java5.0](https://pan.baidu.com/s/12iruBmdYu3FSosPhKQAt8A)  提取码：2eo5 
--  [Java 8实战](https://pan.baidu.com/s/10_Ogo5DNifAaOsPclLhbBA)  提取码：ltq7 
--  [Java2核心技术II卷.高级特性7th](https://pan.baidu.com/s/1h98aVjGf-nEjpFGhEpXrrA )  提取码：akug 
--  [Java2核心技术第I卷.基础知识7th](https://pan.baidu.com/s/1dQUzVZ1b7km2DKtXsQOmww)  提取码：96wv  
--  [Apache+Kylin权威指南](https://pan.baidu.com/s/15c-2lgZM-QkjkNdB5FUxkQ)  提取码：rkkm  
--  [Effective Java 中文第二版](https://pan.baidu.com/s/1L4LMuYARa7JSXe0ZhzLfxg)  提取码：2ec1  
--  [Hadoop The Definitive Guide](https://pan.baidu.com/s/1dYnCssraZhEtBro1EjPbIA)  提取码：qzcx
--  [Apache+Kylin权威指南](https://pan.baidu.com/s/1aWChq9J7kPD1RxBWHonRqg)  提取码：a7mp  
--  [Effective Java 2nd Edition 英文版](https://pan.baidu.com/s/1akeISx_KWHURtRq7sxNbMA)  提取码：kava   
+-  [深入剖析Tomcat](https://pan.baidu.com/s/1IunVEAC57UOFqQISJb1MRw )  提取码：59wb 
+-  [深入理解Spark：核心思想与源码分析](https://pan.baidu.com/s/14GBUxLt5owx3szh_JvKPAg )  提取码：cij9 
+-  [深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）](https://pan.baidu.com/s/1jKvrSCTyTnLKC-vLxSIo1Q )  提取码：q4ca
+-  [深入分析JavaWeb技术内幕](https://pan.baidu.com/s/1uuRzc3E37SMn1IZ7NmLxWQ )  提取码：befv
+-  [深入JAVA虚拟机第二版](https://pan.baidu.com/s/1iTXXX4e6cBCnAYOgUI-Aw)  提取码：2vd3 
+-  [深入JAVA虚拟机](https://pan.baidu.com/s/1jvFfpRSlqy6iAv0wzqxFlw )  提取码：sh19 
+-  [轻量级JavaEE企业应用实战](https://pan.baidu.com/s/1QAS0KjbGjUxvw41SikCjXw  )  提取码：4f3u 
+-  [精通Struts基于MVC的Java Web设计与开发](https://pan.baidu.com/s/1Xwcrh8Qh_jYxM5J1PbtI6w )  提取码：mamt 
+-  [精通spring - Mastering Spring](https://pan.baidu.com/s/1WsXj2OSia7NJByo4RahEGA )  提取码：s36n
+-  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1kHrjy7XjVvj-xktTZAne_A )  提取码：6pzp 
+-  [大数据架构师指南](https://pan.baidu.com/s/1pjc7WXvkcXJk9V8HVe4OIA )  提取码：03lo 
+-  [阿里巴巴Java开发手册--泰山版](https://pan.baidu.com/s/1fmcZzuIhMAiXIoj1qgaSng )  提取码：t19e 
+-  [阿里巴巴Java开发手册-嵩山版](https://pan.baidu.com/s/1Swd-z6hbeSlVNh-w9su0VA )  提取码：1xf1 
+-  [阿里巴巴Java开发手册--华山版](https://pan.baidu.com/s/1WS6y8pJQkltL0n0KbObS2A )  提取码：90y1 
+-  [阿里巴巴Java开发手册v1.2.0](https://pan.baidu.com/s/1r5Gei0GWcttVaRHJveDi5A )  提取码：9006 
+-  [阿里巴巴Java开发手册--1.4.0详尽版](https://pan.baidu.com/s/1EtiwI3EsfS8_hQn6rpg6eQ )  提取码：c9sc 
+-  [阿里巴巴Java开发手册--1.3.0终极版](https://pan.baidu.com/s/1fRpOg1S-qfkPt2qZago6Tg  )  提取码：a1qf 
+-  [阿里巴巴Java开发手册--1.2.0升级版](https://pan.baidu.com/s/1TP4ajcMRKLCVtKRk6-Y0SQ )  提取码：jezb 
+-  [阿里巴巴Java开发手册--1.1.0正式版](https://pan.baidu.com/s/12Drps3bAXQ8aAvA-6yTmhw )  提取码：dq9e 
+-  [阿里巴巴Java开发手册--1.0.0公开版](https://pan.baidu.com/s/1gLmF91VVKWJdz0YmKTk0pg )  提取码：p3sa 
+-  [spring框架，技术详解及使用指导](https://pan.baidu.com/s/18eMWu9CxQbyvCkM_uwrTWg )  提取码：rdqa 
+-  [Spring in action 中文版（第4版）](https://pan.baidu.com/s/1KWT-OGGivWDtljwet-GEMQ  )  提取码：12bu 
+-  [Spring 5 Recipes, 4th Edition](https://pan.baidu.com/s/1STAmcieYNAwmHblqOtLs6g   )  提取码：n603 
+-  [Spark最佳实践](https://pan.baidu.com/s/1KRiBs131kn-mOeeQCW686Q  )  提取码：v0vo 
+-  [Spark快速大数据分析](https://pan.baidu.com/s/1ylIy_MUlFaK9vM19igUw9g )  提取码：dr8y 
+-  [Spark机器学习](https://pan.baidu.com/s/1jBMIeY722Vd8uyfO0wpLMA )  提取码：rueq 
+-  [Spark大数据处理：技术、应用与性能优化(全)](https://pan.baidu.com/s/15qSHlTXwP2-H9CcRFZJAqA )  提取码：fcve 
+-  [Scala编程中文版(33章全)](https://pan.baidu.com/s/1spPIooMCifIJbHnJAwy7gg )  提取码：mdr1 
+-  [Maven实战（高清完整带书签）](https://pan.baidu.com/s/16j9n7XXBdWiiwcuGTLzt5g  )  提取码：ytpm 
+-  [Kafka & Mafka技术分享及讨论](https://pan.baidu.com/s/1RLj16gEUP-wLOf2wivDqVA  )  提取码：lbz2 
+-  [Java语言编码规范](https://pan.baidu.com/s/13h7KLMwJpFjGc8pGFi27zw  )  提取码：zxxa 
+-  [JAVA优化编程](https://pan.baidu.com/s/1FccBsRmFOq-P0lG0xRYkqA )  提取码：5095 
+-  [Java夜未眠_程序员的心声](https://pan.baidu.com/s/1gVdcFiaTglI3rAGqhyjblg )  提取码：39jj 
+-  [Java性能优化权威指南](https://pan.baidu.com/s/1GM9eo-ODDlmuKaprRaYJ6w  )  提取码：eoa8 
+-  [Java线程](https://pan.baidu.com/s/14GqTuXs0YJKiKkUzWJjHsg )  提取码：x832 
+-  [Java数据结构和算法中文第二版](https://pan.baidu.com/s/1Rmo_iBOvc5mdgrbmoj-3OA  )  提取码：ounm 
+-  [Java使用工具](https://pan.baidu.com/s/1olXB0pquBJ-Rpze_y8VA5A )  提取码：8snj 
+-  [Java设计模式之抽象工厂模式](https://pan.baidu.com/s/1_-DdB2TKKESWbfOpm00GHw )  提取码：ap6l 
+-  [Java解惑(中文)](https://pan.baidu.com/s/1qIgzkmbVJ6wMmP5cDhLOWA )  提取码：3rgt 
+-  [Java核心技术卷2高级特性原书第10版](https://pan.baidu.com/s/1F2DrWQ-vKXRdBbBTQE-vEQ )  提取码：2ww8 
+-  [Java核心技术卷1基础知识原书第10版](https://pan.baidu.com/s/1M896FCLK4Ed29vPgUR4JXg )  提取码：igsy 
+-  [Java核心技术（卷2）第8版](https://pan.baidu.com/s/1WC9_HScjs9bQdHGQ0T0jcQ  )  提取码：cewn 
+-  [Java核心技术(卷1）第8版](https://pan.baidu.com/s/1dwO2mjbAisJhhV_y40xmFQ  )  提取码：fj07 
+-  [Java从小白到大牛精简版](https://pan.baidu.com/s/1AFrp0nJHTji8ysDmsLZgdQ )  提取码：7f3y  
+-  [Java并发程序设计教程](https://pan.baidu.com/s/1Pa4n1Tg1wNiYxzPJSPp0kQ  )  提取码：6sga 
+-  [JAVA并发编程实践](https://pan.baidu.com/s/1d9o5lY1d2Xw8ltonpjr5Aw )  提取码：x58o 
+-  [Java并发编程的艺术](https://pan.baidu.com/s/1cOnNMGiSDR5dJhc0f6nQZQ  )  提取码：1eb5 
+-  [Java编辑思想（第四版）](https://pan.baidu.com/s/1yrZwSoXIPnCxN07c_P_4AA )  提取码：nzh0 
+-  [Java案例开发](https://pan.baidu.com/s/183v0Yu4PITjgo8ZBo1RMPA )  提取码：e16l 
+-  [Java2网络协议技术内幕](https://pan.baidu.com/s/1pFLd42BTc18gIb8u1ke7qg )  提取码：5x25 
+-  [Java 8实战](https://pan.baidu.com/s/1PKP3hsIIU-VxzLcEsnnNrA )  提取码：noyj 
+-  [Head First Servlet and JSP(高清中文版)](https://pan.baidu.com/s/1zVcv5jhxI0E6HngRe7kCYQ )  提取码：ix3i 
+-  [Head First Java第二版涵盖java5.0](https://pan.baidu.com/s/1d11foMKuAQKjUuRbPuDa5w )  提取码：3qut 
+-  [Hadoop The Definitive Guide](https://pan.baidu.com/s/1rPFEfQxDvsXSnkJcqBESMw  )  提取码：f7ye 
+-  [Effective Java 中文第二版](https://pan.baidu.com/s/1yN-9UoVsSGy6OqZ574SwAQ  )  提取码：mut3 
+-  [Effective Java 2nd Edition 英文版](https://pan.baidu.com/s/1VzADjXM-gTx2LozKNZJtCw  )  提取码：3d1e 
+-  [Camel in Action](https://pan.baidu.com/s/1FV3jmIkrHb3fOGcd8njq5Q  )  提取码：ulzo 
+-  [Apache+Kylin权威指南](https://pan.baidu.com/s/1fcT_j2ycMJdZffWNk7JeQQ )  提取码：w2zj 
+-  [《码出高效：Java开发手册》](https://pan.baidu.com/s/1Nv5kD8MuvrIh3Z984vD2zA )  提取码：i7ys 
+-  [Java2核心技术第I卷.基础知识](https://pan.baidu.com/s/1O_IYvrnhxnor6uBhrRT9ig  )  提取码：yo6t 
+-  [[大家网]Java2核心技术II卷.高级特性7th[www.TopSage.com]](https://pan.baidu.com/s/1O4yWFz4gLXb9OLrzNwudMA)  提取码：dpku  
+-  [[Flex.3实战].（美）艾哈迈德，（美）赫希，（美）阿比德.扫描版](https://pan.baidu.com/s/16KFFPIUGCw6rRLU59dfkLg  )  提取码：jdnt 
+
 
 ## 4 Python
 
