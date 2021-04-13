@@ -34,6 +34,8 @@
 
 ## 2 C++
 
+-  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
+-  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1tg57seNQmTQGPFxFbFOTdQ  )  提取码：blou 
 -  [易学C++](https://pan.baidu.com/s/1hPL7zN0XyVqfQgVTtlyK6g )  提取码：yiwo 
 -  [提高C++性能的编程技术.左飞](https://pan.baidu.com/s/1wfBHSsOPuG4hIAI4KC-C_Q )  提取码：anft   
 -  [深入理解C++11](https://pan.baidu.com/s/1GV2HvK41eTjDMs2huX-DYw)  提取码：py26 
