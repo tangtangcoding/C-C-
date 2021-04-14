@@ -360,11 +360,15 @@
 
 ## 13 设计模式
 
+-  [研磨设计模式](https://pan.baidu.com/s/1RXCPFpxM37YwX_7PRjCz3Q  )  提取码：zwdg
+-  [图解设计模式](https://pan.baidu.com/s/13PyfbZHnkRHxnaCU_3rkwQ)  提取码：0br5 
+-  [敏捷开发-设计模式](https://pan.baidu.com/s/1rM7wi9MfNVEIG1lSV3w5qQ )  提取码：qz68  
+-  [大话设计模式](https://pan.baidu.com/s/1l74SrqIVV73nUHS_7ePKdQ )  提取码：gl1g 
+-  [HeadFirst设计模式（中文版）](https://pan.baidu.com/s/19G30roT-Gnj7VnUBIwR6bw  )  提取码：b2zi 
+-  [head first design patterns](https://pan.baidu.com/s/1tF9mOnn1vFcFfaBLGTVuwQ )  提取码：oexz
+-  [C++版常见设计模式解析与实现](https://pan.baidu.com/s/1FqQppZl7PvJMyfyriHARRA )  提取码：ikay 
 
-
-
-
-
+## 14 前端
 
 
 
