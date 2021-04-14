@@ -340,13 +340,25 @@
 
 ## 12 数据库
 
+-  [数据库系统实现（第二版）](https://pan.baidu.com/s/1Ez9ke2T7V4qW35FUAmN7Jg )  提取码：6oi6 
+-  [数据库系统概念](https://pan.baidu.com/s/1SUNmqAEzkf1MkmCP-kCLaQ )  提取码：7bt0 
+-  [数据库系统概念 中文第6版](https://pan.baidu.com/s/1pW8zB8wdes61jbIopBTJGg )  提取码：kqe0  
+-  [深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明](https://pan.baidu.com/s/1wLav_DtV3BZJypLpjttBVQ )  提取码：70uf 
+-  [高性能MySQL（第3版）].Baron.Scbwartz等.扫描版](https://pan.baidu.com/s/1ozNQM0LXJxO9PFko-YoB6 )  提取码：gi0a 
+-  [分布式数据库系统原理.第3版](https://pan.baidu.com/s/1u2lq6T5ryyr4CoJbYsmihA  )  提取码：arpa  
+-  [分布式数据库系统  大数据时代新型数据库技术__于戈等编著_北京：机械工业出版社](https://pan.baidu.com/s/1T3vKI_LQM3eiMavkLMv88w )  提取码：11nz 
+-  [SQL查询的艺术](https://pan.baidu.com/s/1u72WTSU6Qdi4hG4D9BqUNw )  提取码：lwrz  
+-  [SQLite 权威指南](https://pan.baidu.com/s/1yN31qm6uv9jKt0YY71i2tA )  提取码：2d4q  
+-  [Redis实战](https://pan.baidu.com/s/1k1hQuJaeBAJEULFxLPezwA  )  提取码：8mub 
+-  [Redis设计与实现](https://pan.baidu.com/s/1yZJNVkPZBKk_AQOGKVo94A  )  提取码：pzt5 
+-  [Redis开发与运维](https://pan.baidu.com/s/1R9SIiPksq3dXVySOH2RLzg  )  提取码：wvmm   
+-  [MySQL技术内幕  InnoDB存储引擎  第2版](https://pan.baidu.com/s/1QagXepJ3d6kk1J1tP5R-CA )  提取码：5lnc  
+-  [MongoDB权威指南](https://pan.baidu.com/s/1GAti-ZZlf2vjSD-6bIfdvg )  提取码：dymm 
+-  [Database System Concepts](https://pan.baidu.com/s/1r9T5PITL8i6-UlxKtbx_OA  )  提取码：zfnb 
+-  [《MySQL必知必会》PDF + 源码](https://pan.baidu.com/s/1rfa4c9BGQVU_Z9BXoyxXaw  )  提取码：l09b  
+
+
 ## 13 设计模式
-
-
-
-
-
-
 
 
 
