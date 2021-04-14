@@ -135,68 +135,68 @@
 
 ## 4 Python
 
--  [《Python数据分析14天入门训练营》课程资料](https://pan.baidu.com/s/1iPacxUwN0e772tUlMl_dCg )  提取码：qdgt
--  [Tableau商业智能与可视化应用实战](https://pan.baidu.com/s/1S3QZfh8awfw9y5fti97mZQ )  提取码：ucrp 
--  [大数据分析精品资料](https://pan.baidu.com/s/1lNuCggFxP4UK7J7Alhbjkg)  提取码：fstb  
--  [数据挖掘原理与算法](https://pan.baidu.com/s/1YgX5bWz5_bf16JQqo_Vjsg)  提取码：v11s  
--  [用Python写网络爬虫](https://pan.baidu.com/s/1fE0i_CkWJzwGyvMZeHC3KA )  提取码：c55a 
--  [T增长黑客_创业公司的用户与收入增长秘籍 - 范冰](https://pan.baidu.com/s/1mWqREaRFlZop3k98xrM3OA )  提取码：6esi 
--  [数据挖掘导论 - 完整版](https://pan.baidu.com/s/1rtade2hEmiPIPpAhGG5hjQ )  提取码：t5zr 
--  [数据可视化之美](https://pan.baidu.com/s/1FHADMCec5ARKURtYdz5ovw)  提取码：gqbo   
--  [利用python进行数据分析](https://pan.baidu.com/s/1-rMhw3mmjSJLDEHwLsyzSw )  提取码：njp1 
--  [触手可及的大数据分析工具 Tableau案例集](https://pan.baidu.com/s/1-Jpt4ZHlqc3PlSrS0Qh0LQ )  提取码：t478
--  [人人都是数据分析师：Tableau应用实战](https://pan.baidu.com/s/1HotAP6n3-TasfhNaJCeZMg)  提取码：au2q 
--  [数据分析实战](https://pan.baidu.com/s/18409GGtiJgJFXsaNzZ-_2g)  提取码：fny8
--  [利用python进行数据分析-第二版](https://pan.baidu.com/s/1gvdF9cqaQg5-LITKnEeZZg )  提取码：bv9x  
--  [精通Scrapy网络爬虫-刘硕](https://pan.baidu.com/s/1H2TNTwwkXYF1duVgxDQKgQ )  提取码：lkyi 
--  [数据分析学习顺序](https://pan.baidu.com/s/1oyqsQSsVoxM6YavQou-2bw )  提取码：i8zp 
--  [可爱的Python插图版_文字版](https://pan.baidu.com/s/1WzBTBygmwcwUdmiXYUD5rA)  提取码：es9w 
--  [数据分析修炼手册](https://pan.baidu.com/s/1Rv_JqSGK4-lvZ3cVdaIe-g )  提取码：v5lz   
--  [Python数据分析与挖掘实战](https://pan.baidu.com/s/1xEP0FlEFjaAy8TNkyZzboA )  提取码：gre9
--  [带书签目录Python3.5.1入门指南中文版](https://pan.baidu.com/s/1luC41QnOPe7o34mx475_Jg )  提取码：t784
--  [Python学习手册(第4版)](https://pan.baidu.com/s/1mJVnUj5_66umOwXJHupFLg )  提取码：5tgq
--  [Tableau：数据可视化之极速BI](https://pan.baidu.com/s/1Vk21vbsVSpQWZ1HVEHDGOw )  提取码：d4ps  
--  [编程小白的第一本python入门书](https://pan.baidu.com/s/136Qi0sYhPkBW_T_9UJHRcQ )  提取码：2x6s
--  [Python数据分析实战_2016版](https://pan.baidu.com/s/1KhXwjCEQ4rXYG5apd0GDOA )  提取码：oli3 
--  [Python数据可视化编程实战](https://pan.baidu.com/s/1vOHXyNsFeKlrTP-J-OFc4w )  提取码：sfp2 
--  [Python知识手册-V2.0.1](https://pan.baidu.com/s/1O3OA8qd-_GGEaumwcGje0A )  提取码：74dz   
--  [Tableau：数据可视化之极速BI数据源](https://pan.baidu.com/s/19W3C_Pwb_t9rOZkThqunfQ )  提取码：f2y5 
--  [Python网络编程基础](https://pan.baidu.com/s/12Ag1HAr7qxkCPgxkh47lZw )  提取码：jwit 
--  [Python数据挖掘入门与实践](https://pan.baidu.com/s/1vKsguocqR4faPQ55M-B2DA )  提取码：jeck 
--  [笨办法学Python（第四版）](https://pan.baidu.com/s/1IM0QN05Cb7QJa_EsmHVseQ )  提取码：yn4n   
--  [笨办法学.Python.（第三版）](https://pan.baidu.com/s/1imGrzbFlFu-lOZQtR_TQ3Q  )  提取码：gzyd
--  [Python正则表达式-深入浅出](https://pan.baidu.com/s/1Q_A9NvBw5xtyPk06bzKqKA )  提取码：gaxf 
--  [Python数据分析基础](https://pan.baidu.com/s/1ybWna-4a9gOeZbvuF60AKQ  )  提取码：mpii 
--  [Python数据分析基础教程：NumPy学习指南（第2版）](https://pan.baidu.com/s/10Tk-vagCyN3IkjPBJZRkOQ)  提取码：2x60  
--  [Python数据处理](https://pan.baidu.com/s/1wZobMPtU8l4fr4zQcdoruA )  提取码：zzaw 
--  [Python科学计算与数据分析](https://pan.baidu.com/s/1G8LjkYSUbCTC_Z5EV-wccg )  提取码：t1lx 
--  [Python入门教材(中文)](https://pan.baidu.com/s/1_TraM5KjNpTwynlxAM3KMw )  提取码：06i4 
--  [Python开发技术详解](https://pan.baidu.com/s/1CbQ8aCl0r94rjnXd2k00lw )  提取码：ee7k 
--  [Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版](https://pan.baidu.com/s/1DTFSHwbFd3F3FbIQyQi-bw )  提取码：1905 
--  [Python开发实战](https://pan.baidu.com/s/1nIHuIHbsUx_a-yfr1G1keg )  提取码：13vs 
--  [Python金融大数据分析](https://pan.baidu.com/s/1kOk7BOwcEmLqMnbIwqQ0vg )  提取码：sxux 
--  [python基础教程（第二版）](https://pan.baidu.com/s/1oa70c8bw6nCnoJfVOoYMyA )  提取码：e37d
--  [Python灰帽子——黑客与逆向工程师的Python编程之道](https://pan.baidu.com/s/1RIoLhuG9OKEppqUq2-m5ZQ )  提取码：fsi1 
--  [Python核心编程 第3版 中文版](https://pan.baidu.com/s/1Ju7IZeUK7FqaFvmgkThPog )  提取码：x9yl
--  [Python编程入门经典](https://pan.baidu.com/s/1jT7N81mpMzpME5l8QUpgIw)  提取码：rufl 
--  [Python编程-数据挖掘入门与实践(中文完整版)-图灵程序](https://pan.baidu.com/s/1fz9J77uCa1cJLoyoayV5Rw )  提取码：lwdt 
--  [python操作word,excel,pdf](https://pan.baidu.com/s/1aT1JWFChBNGKEjJoYgRpXg  )  提取码：fvtv  
--  [Python编程初学者指南](https://pan.baidu.com/s/1xmEjmeNg-xxUvGwym3JPYg)  提取码：8lkn 
--  [Python编程快速上手 让繁琐工作自动化](https://pan.baidu.com/s/1hZkSUt9L1vJQPYauAsQkgw )  提取码：0ymk  
--  [Python Cookbook（第3版）中文版](https://pan.baidu.com/s/12cjxoQuRH3STCVfAuFXUQw)  提取码：cl15 
--  [Python3网络爬虫数据采集](https://pan.baidu.com/s/1zbg8I_uoIUvSL4SBAd79IA )  提取码：0azo   
--  [Python3.5.2--入门指南-高清](https://pan.baidu.com/s/1s_XIwK04-HooZ0pFsWn3DA)  提取码：06vg  
--  [Python编程：从入门到实践](https://pan.baidu.com/s/17k3RwVGv5DAm7xVUXktgRQ )  提取码：4gti  
--  [Python for Data Analysis](https://pan.baidu.com/s/1pUpy7YqgvcE70XrTsIV0sg )  提取码：rhqw
--  [Python3简明教程](https://pan.baidu.com/s/1Mi5JX3DlqYVA0C5KApKwBQ )  提取码：pc4i    
--  [NumPy Basics](https://pan.baidu.com/s/15TJoO-mPFw8IZhRXRktuHw )  提取码：v5j4 
--  [Pandas Basics](https://pan.baidu.com/s/1I43Ezvh9vawYgSWdFOD6BA  )  提取码：vxxm 
--  [Deep_Learning_With_Python](https://pan.baidu.com/s/1Stm77xJvfr8uM68UhPIoSw )  提取码：xwfm 
--  [B站-python3数据分析与挖掘建模实战](https://pan.baidu.com/s/1l7vwrzPddcoJ07vcSktXyw  )  提取码：aa6v  
--  [B站 - 七周成为数据分析师_课件](https://pan.baidu.com/s/1GfFVbgheBlm0X3ix1bAc5Q )  提取码：9z1n 
--  [《触手可及的大数据分析工具：Tableau案例集》数据源](https://pan.baidu.com/s/1KctM_wMAtNi6V8YspbPv_A  )  提取码：k2xb 
--  [B站_用Tableau做数据分析](https://pan.baidu.com/s/1ZxFSSxmwhx6zPFd9a6p4UA )  提取码：tqkd 
--  [A Byte of Python3(中文版)](https://pan.baidu.com/s/1VGxByTKMwcx6y2Lex1kQWg )  提取码：knoj 
+-  [《Python数据分析14天入门训练营》课程资料](https://pan.baidu.com/s/1jld_YSqFRlDSl07B45PQ5A  )  提取码：24w5 
+-  [增长黑客_创业公司的用户与收入增长秘籍 - 范冰](https://pan.baidu.com/s/1trQBHZynq6iYgQLZn0glfg )  提取码：1mil
+-  [用Python写网络爬虫](https://pan.baidu.com/s/1hzcjxkhU1bhvp9_Qmpd4eQ )  提取码：qnd3  
+-  [数据挖掘原理与算法](https://pan.baidu.com/s/1oK2kFJO-YgBBpeNSeClx_Q )  提取码：tsfe   
+-  [数据挖掘导论 - 完整版](https://pan.baidu.com/s/1F5micLOTAjzjbwjbuj4dMA )  提取码：b56u 
+-  [数据可视化之美](https://pan.baidu.com/s/1tXuGcFZgPYq54tYAmY6CNA  )  提取码：d4vb 
+-  [数据分析学习顺序](https://pan.baidu.com/s/1w_7ZmOX7kNKVLyD1I0pLRw )  提取码：0vdx
+-  [数据分析修炼手册](https://pan.baidu.com/s/1koW6wrG8M7cZxImhge-VzA  )  提取码：aegg 
+-  [数据分析实战](https://pan.baidu.com/s/1EGGb1717GVbHy3-o8u80NQ )  提取码：2sa2 
+-  [人人都是数据分析师：Tableau应用实战](https://pan.baidu.com/s/1D4raRprO3SviKnwlcpbyIA  )  提取码：0i7r 
+-  [利用python进行数据分析-第二版](https://pan.baidu.com/s/1p3NIfp0RVQ54Rts067QE8w  )  提取码：w9ni  
+-  [利用python进行数据分析](https://pan.baidu.com/s/1fyz699VP2QHLcdWvrwfs3Q )  提取码：kssp 
+-  [可爱的Python插图版_文字版](https://pan.baidu.com/s/1S596XnL-wFdbWBe5JjR80Q  )  提取码：bcoy 
+-  [精通Scrapy网络爬虫-刘硕](https://pan.baidu.com/s/1yQegnHhmC5OoMHU1fgfWHg )  提取码：d5u9 
+-  [带书签目录Python3.5.1入门指南中文版](https://pan.baidu.com/s/1z7pwZ0oi_ytF9YPOJraTPw )  提取码：yvtt 
+-  [大数据分析精品资料](https://pan.baidu.com/s/19S7DyCqNDpANerLtiWlcQA  )  提取码：h6hd 
+-  [触手可及的大数据分析工具 Tableau案例集](https://pan.baidu.com/s/1DLqy3i9bL2En912sJtAg-A )  提取码：7xl7  
+-  [编程小白的第一本python入门书](https://pan.baidu.com/s/1HjSJPNsR4v2ytEv37o9dFA )  提取码：akwd 
+-  [笨办法学Python（第四版）](https://pan.baidu.com/s/1SogzhE7T8IlQskIWYSEXZQ )  提取码：akk7 
+-  [笨办法学.Python.（第三版）](https://pan.baidu.com/s/1K7eTYS_fQ3RzzIgUv0oGGQ )  提取码：tqe8 
+-  [Tableau商业智能与可视化应用实战](https://pan.baidu.com/s/14wsvl0J5qWlxoiMGifXN4w )  提取码：1ydi 
+-  [Tableau：数据可视化之极速BI数据源](https://pan.baidu.com/s/1gZVUwRi63SNaCGhsf8iddg  )  提取码：dy06 
+-  [Tableau：数据可视化之极速BI](https://pan.baidu.com/s/1pMD6e9g56c1RUqeUZv6cxA )  提取码：yjgu 
+-  [Python知识手册-V2.0.1](https://pan.baidu.com/s/1_cY28ce9QuqKhF1tjGU62A  )  提取码：hnwj  
+-  [Python正则表达式-深入浅出](https://pan.baidu.com/s/1WHkLjbAb3UhE0RA8UHpB9g )  提取码：cgwz 
+-  [Python学习手册(第4版)](https://pan.baidu.com/s/1mmZWlzH9UvQS9t0_OspExw )  提取码：avu8 
+-  [Python网络编程基础](https://pan.baidu.com/s/1hpoZIgoRo_e-LHRoVnCQKA )  提取码：ii89 
+-  [Python数据挖掘入门与实践](https://pan.baidu.com/s/1ibnQp43Kl9jX1dmxkGYdOw  )  提取码：gwqu 
+-  [Python数据可视化编程实战](https://pan.baidu.com/s/1Jf8sHzVPeWXu1euf_eEaVw )  提取码：qxad 
+-  [Python数据分析与挖掘实战](https://pan.baidu.com/s/1bUowx1pPT6kSQNXZXfACYw  )  提取码：z8d2 
+-  [Python数据分析实战_2016版](https://pan.baidu.com/s/1p0DmVGbCmT55AFQuS0DKHw )  提取码：23lg
+-  [Python数据分析基础教程：NumPy学习指南（第2版）](https://pan.baidu.com/s/1KYfetJgTQ_73-eUGD9Iygg )  提取码：lq13 
+-  [Python数据分析基础](https://pan.baidu.com/s/17bkcLap-tjvMVrsXTof7Nw )  提取码：nw6a 
+-  [Python数据处理](https://pan.baidu.com/s/1stu8W-wSg-QgSgmNtdmTFA )  提取码：zv2s 
+-  [Python入门教材(中文)](https://pan.baidu.com/s/1wfjTaBPOv--NCSPktKA8Ag )  提取码：75fr 
+-  [Python科学计算与数据分析](https://pan.baidu.com/s/1qW_pimex5qslxTayr5yqzw )  提取码：5pme 
+-  [Python开发实战](https://pan.baidu.com/s/1uZhxGROvdayT1ehCqPszmw )  提取码：nlmn 
+-  [Python开发技术详解](https://pan.baidu.com/s/1KL7Pg-TrPJDa2bSUExESUA  )  提取码：eard 
+-  [Python金融大数据分析](https://pan.baidu.com/s/16g2O-PDG6c1YnYMP1Fg9Cw )  提取码：sbre 
+-  [python基础教程（第二版）](https://pan.baidu.com/s/1VufcfKdqg-Q0Sb9P12d3DQ )  提取码：tzcv 
+-  [Python灰帽子——黑客与逆向工程师的Python编程之道](https://pan.baidu.com/s/1vPOdJ6nezjiyr7lLIgEjog  )  提取码：fn47 
+-  [Python核心编程 第3版 中文版](https://pan.baidu.com/s/1Smojxqv70DmA41vRePs15A )  提取码：lxej 
+-  [Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版](https://pan.baidu.com/s/14Y3P6OE6NSMGxSNmObJUjw )  提取码：bz53 
+-  [python操作word,excel,pdf](https://pan.baidu.com/s/1p4KYE98Uxw4mvWlLnJgBgg  )  提取码：wdkz 
+-  [Python编程-数据挖掘入门与实践(中文完整版)-图灵程序](https://pan.baidu.com/s/1Gjxc8Fz8t3ehxcm5biUdog)  提取码：jmoo
+-  [Python编程入门经典](https://pan.baidu.com/s/15iITs_WpukTQy-2Z8Pp1Uw  )  提取码：7uzb 
+-  [Python编程快速上手 让繁琐工作自动化](https://pan.baidu.com/s/1PommQ_Ud6pVrvO5Xvnov5A  )  提取码：4q4o 
+-  [Python编程初学者指南](https://pan.baidu.com/s/1jVob2p5YbTbPNjC62uJj1A )  提取码：thk0 
+-  [Python编程：从入门到实践](https://pan.baidu.com/s/1_JUssR69F721DucTlchNXA )  提取码：gaf0  
+-  [Python3网络爬虫数据采集](https://pan.baidu.com/s/11xsh6Wt5wH8UNvmZJT5JPg  )  提取码：k8e2 
+-  [Python3简明教程](https://pan.baidu.com/s/1JLA3e-4GcdaD6hJHQRY76Q )  提取码：nbrw
+-  [Python3.5.2--入门指南-高清](https://pan.baidu.com/s/1YOGNBdx9T64wTiNOpWTcUQ )  提取码：suck 
+-  [Python for Data Analysis](https://pan.baidu.com/s/1Bk1P2zxNHPQmkO3-c99LVw )  提取码：7y7w 
+-  [Python Cookbook（第3版）中文版](https://pan.baidu.com/s/1LISCtWE-v6BTsHHUmUTtvA  )  提取码：360r
+-  [Pandas Basics](https://pan.baidu.com/s/1SnLDPvtYk6Bh1ZjRAM2vmg )  提取码：noqk 
+-  [NumPy Basics](https://pan.baidu.com/s/1og9UMfdqmnw3W4X92Yyvzg  )  提取码：iy54 
+-  [Deep_Learning_With_Python](https://pan.baidu.com/s/1EeGnHAnTLo74OnfOaN3JyQ)  提取码：ahw3  
+-  [B站-python3数据分析与挖掘建模实战](https://pan.baidu.com/s/11FQ5T2xvB9rCjljKOUQxjA )  提取码：kzzd 
+-  [B站_用Tableau做数据分析](https://pan.baidu.com/s/1BXUcFdfemeQSDdcFGnIAWw )  提取码：ac39 
+-  [B站 - 七周成为数据分析师_课件](https://pan.baidu.com/s/1lHYVBbYyGGa6W5tgmgHvTg  )  提取码：wpuo 
+-  [A Byte of Python3(中文版)](https://pan.baidu.com/s/1daqXTHLW1Yuho6YGuyW3Kg )  提取码：m5jk 
+-  [《触手可及的大数据分析工具：Tableau案例集》数据源](https://pan.baidu.com/s/1jsS-TO6opRDOTXHF_0nQ9Q )  提取码：ui1b
 
 ## 5 Go
 
