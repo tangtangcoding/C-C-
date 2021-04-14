@@ -332,6 +332,12 @@
 
 ## 11 汇编语言
 
+-  [老“码”识途 从机器码到框架的系统观逆向修炼之路](https://pan.baidu.com/s/1PaTbBKpgSUp1jMx2dUijHw  )  提取码：dggc 
+-  [汇编语言_王爽及相关资料](https://pan.baidu.com/s/1QzIdEh-VHaPP6XpGfaQ1Eg  )  提取码：cocu 
+-  [x86汇编语言：从实模式到保护模式_书籍及配套资料](https://pan.baidu.com/s/1SM5nwv4CuLk6-GqtZKtxhw)  提取码：pq7k 
+-  [80x86汇编语言程序设计教程](https://pan.baidu.com/s/1LsdD8mgaFUJQDco_OxTPkQ )  提取码：4hpy 
+
+
 ## 12 数据库
 
 ## 13 设计模式
