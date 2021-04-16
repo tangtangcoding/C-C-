@@ -370,6 +370,23 @@
 
 ## 14 前端
 
+-  [深入浅出Node.js](https://pan.baidu.com/s/15IWDxYdXP4OcyluBIKLCWw )  提取码：nydl 
+-  [疯狂ajax讲义](https://pan.baidu.com/s/1K2UQyUbMe_oegGg-VHTM1w )  提取码：10do  
+-  [nodebook](https://pan.baidu.com/s/1yxVKGe5lwywNnvU-M5G8cQ )  提取码：eo8x
+-  [Node.js开发指南](https://pan.baidu.com/s/1V3DQAbzLbsHTwBphjUwsEQ )  提取码：2al6 
+-  [jQuery权威指南](https://pan.baidu.com/s/1bUNWoXHRjPBxc9Wyf1lvGA  )  提取码：zd79 
+-  [jQuery技术内幕 深入解析jQuery架构设计与实现原理](https://pan.baidu.com/s/1e8RkLrhGauMZ17lPCvQiuQ)  提取码：5nmk 
+-  [jQuery高级编程，中文完整扫描版](https://pan.baidu.com/s/1iFPuyngbCf7kUhhDnZKSXg  )  提取码：92eh 
+-  [javascript高级程序设计](https://pan.baidu.com/s/15llgSGXVBF-S9aiIcNe46Q )  提取码：85r1  
+-  [Javascript 高效图形编程-中文版](https://pan.baidu.com/s/1-vm-gzlWF4y4pMhgS-hzww )  提取码：gur3 
+-  [HTML5与CSS3基础教程（第8版）](https://pan.baidu.com/s/1ePWPXYeNI_RgCULXgVhJaQ )  提取码：qqr8 
+-  [HTML5揭秘](https://pan.baidu.com/s/1ni-7s0lrnzAyMdxnN4GWpg  )  提取码：stzj 
+-  [Bootstrap实战](https://pan.baidu.com/s/1LXkMA1YOhB-92DDDSpj8vw )  提取码：85ex 
+-  [【JavaScript高级程序设计（第3版）】中文 高清](https://pan.baidu.com/s/1hBpY37JTAI8i_UOJ_mdVcw  )  提取码：hfkq 
+-  [JavaScript.DOM编程艺术（第2版）](https://pan.baidu.com/s/10Vgo1xnN4CdipsFKRyxixg )  提取码：5hjh  
+-  [[HTML与CSS入门经典(第7版)].（美）奥利弗，（美）莫里森.扫描版](https://pan.baidu.com/s/1L7Fr5vanqXPtqaobMruTXg )  提取码：dcx2 
+
+
 
 持续更新中。。。。
 
