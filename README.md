@@ -218,7 +218,7 @@
 -  [挑战程序设计竞赛(第1版)](https://pan.baidu.com/s/1zXxOS_640lRRAy9k2PTf6Q )  提取码：b5qt 
 -  [算法图解](https://pan.baidu.com/s/1vm9QQE0bh-Jvc8ssTO7Ipg )  提取码：s7bs   
 -  [算法谜题](https://pan.baidu.com/s/1X9Dt9vVTKsqGjCNRGg6rEg  )  提取码：kq3c  
--  [算法分析与设计](https://pan.baidu.com/s/1PVJNTWFx_hT_x1rijSDqs)  提取码：1p27 
+-  [算法分析与设计](https://pan.baidu.com/s/1FbYYJveY-3FL6QQUoo_5ig)  提取码：arp2 
 -  [算法导论中文版](https://pan.baidu.com/s/1cYP0cHLt2K1ESr7viKI_xg )  提取码：bfni 
 -  [算法导论_原书第3版_CHS](https://pan.baidu.com/s/1J2FLxxRCoEyuhoaKpjjF-g  )  提取码：1lg2 
 -  [算法（第4版）](https://pan.baidu.com/s/1DVnsbZyYU4Dt-pZD0mTNoA  )  提取码：zidu 
@@ -234,7 +234,7 @@
 -  [计算机程序设计艺术卷三：排序与查找](https://pan.baidu.com/s/1WtJrWZxBjqMIiBPX763p3w  )  提取码：lzrv 
 -  [计算机程序设计艺术卷二：半数值算法](https://pan.baidu.com/s/146ZONlbvHPxxcM1pcn7cjA )  提取码：xmtx 
 -  [大话数据结构](https://pan.baidu.com/s/1t95HTFBMzKnbqDtJxgStDw )  提取码：qlsa 
--  [程序员面试金典](https://pan.baidu.com/s/1uvmsF5e-oajsAXc5DWVbu )  提取码：69gr 
+-  [程序员面试金典](ttps://pan.baidu.com/s/1gHS-2D8ei9XP6lKMyi0STw )  提取码：5ekq 
 -  [程序员代码面试指南 IT名企算法与数据结构题目最优解（左程云著）](https://pan.baidu.com/s/15ZafnNl_SIshoNa5HzGFJw  )  提取码：h7px 
 -  [编程珠玑 英文第二版-Programming.Pearls](https://pan.baidu.com/s/1KmK2RfXF1DDBAIiIsQIxCA  )  提取码：xxk1 
 -  [编程珠玑 第二版 人民邮电出版社](https://pan.baidu.com/s/1I5V1PA_HGvhOE5vrkjFICQ  )  提取码：u5o4 
