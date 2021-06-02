@@ -410,6 +410,29 @@
 -  [Git权威指南](https://pan.baidu.com/s/1aCtYASODVilebGlVWJRt8w  )  提取码：sg9l 
 -  [Git参考手册-新](https://pan.baidu.com/s/1QV1zJtEeGNq4r1p-E6PmyQ  )  提取码：fkhg
 
+## 17 软技能
+
+-  [重构：改善既有代码的设计（第2版）](https://pan.baidu.com/s/11RUaaRTzr23TMCaFQawM3w)  提取码：rgvj
+-  [孙金城丨阿里巴巴-Blink SQL关键技术及实现原理](https://pan.baidu.com/s/1QXc1l88RoSbv3vaIha3WNg)  提取码：kna9 
+-  [软件工程-实践者的研究方法.8th](https://pan.baidu.com/s/146tQFKv_DyFOXkJtdMl-QA )  提取码：3r05 
+-  [人月神话-中文-目录-文字版](https://pan.baidu.com/s/1hyNonwQ1U7KFc-xps7keeg )  提取码：nft9 
+-  [敏捷软件开发：原则、模式与实践](https://pan.baidu.com/s/1szJU6lyxC_BKPEzqSYAWSA )  提取码：egls 
+-  [浪潮之巅（完整版）](https://pan.baidu.com/s/10dnEHg40xlxZwvwubNWPCA)  提取码：421n 
+-  [技术之瞳+阿里巴巴技术笔试心得](https://pan.baidu.com/s/1QAbHRHZH_w1NlsHlj1B8sQ  )  提取码：x61c  
+-  [华为金融大数据解决方案汇报V2.0](https://pan.baidu.com/s/12KNGcDTiji3dHJ3tUIn2gQ )  提取码：axs5 
+-  [华为大数据应用开发指南](https://pan.baidu.com/s/1dTcIqIkK9LgdF1HbHiWWsQ )  提取码：w13i
+-  [黑客与画家](https://pan.baidu.com/s/1TiH_Mn3i_C2QIAMJ2_-ktA)  提取码：npt5   
+-  [概念与技术（第3版）](https://pan.baidu.com/s/18PnDMkaAm5zF7LioYxtPFQ )  提取码：rat4   
+-  [代码整洁之道](https://pan.baidu.com/s/1xYuj5O3OFI4lJXl76u68Pw )  提取码：chra
+-  [代码大全2中文版](https://pan.baidu.com/s/1dCVYr7KTexzHemXlgv1s4g )  提取码：4vf7 
+-  [大数据之路：阿里巴巴大数据实践](https://pan.baidu.com/s/1hl0uG0Z3m5g5PayBnGVT0g )  提取码：fvpb 
+-  [程序员健康指南](https://pan.baidu.com/s/1WNkqUQPSIKBccNpBvNn9PQ )  提取码：pfkw 
+-  [程序开发心理学](https://pan.baidu.com/s/1L4sdE-BtdULOrYlYpLZ8fA )  提取码：77vy
+-  [奔跑吧，程序员：从零开始打造产品、技术和团队](https://pan.baidu.com/s/1uv5LmbHNS9JKdzbHGVBmKg )  提取码：u5xp 
+-  [阿里双十一技术](https://pan.baidu.com/s/1FwgmZqmS3m6d7b7TAlP0Kw )  提取码：hyff 
+-  [how-to-be-a-programmer-cn](https://pan.baidu.com/s/18cgnL8pxPYQtxvhqUn7Svg )  提取码：okjh 
+-  [《码农翻身：用故事给技术加点料》_刘欣](https://pan.baidu.com/s/1oKndjbBF4jwFgRrS-v7iVw )  提取码：up79 
+
 
 
 持续更新中。。。。
