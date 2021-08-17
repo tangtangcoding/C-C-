@@ -440,7 +440,7 @@
 -  [数学之美](https://pan.baidu.com/s/1Vkaj-F0d4iJOcpSiMG6amQ )  提取码：pdy7 
 -  [离散数学及其应用](https://pan.baidu.com/s/1vqmnwOzyqKY_9hoIuEeTxQ )  提取码：sesa 
 -  [计算复杂性：现代方法](https://pan.baidu.com/s/1EzKC2e07LC254fS6iQsgTA )  提取码：yt7s  
--  [概率论与数理统计 - 陈希孺]https://pan.baidu.com/s/1KRRqILV_afKIG6CQx4WDeQ  )  提取码：mqcs
+-  [概率论与数理统计 - 陈希孺](https://pan.baidu.com/s/1KRRqILV_afKIG6CQx4WDeQ  )  提取码：mqcs
 -  [程序员的数学卷3-线性代数](https://pan.baidu.com/s/18C4ingEpE4KNF7ebF5lBjg )  提取码：nq28 
 -  [程序员的数学卷2-概率统计](https://pan.baidu.com/s/1g5CQTJJUSLqZaPvyQbtqmg  )  提取码：p9k
 -  [程序员的数学卷1一 清晰版](https://pan.baidu.com/s/1Tzd6eVEnf2GCgkSg_zTqDQ )  提取码：amqa 
