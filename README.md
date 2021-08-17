@@ -442,13 +442,11 @@
 -  [计算复杂性：现代方法](https://pan.baidu.com/s/1EzKC2e07LC254fS6iQsgTA )  提取码：yt7s  
 -  [概率论与数理统计 - 陈希孺](https://pan.baidu.com/s/1KRRqILV_afKIG6CQx4WDeQ  )  提取码：mqcs
 -  [程序员的数学卷3-线性代数](https://pan.baidu.com/s/18C4ingEpE4KNF7ebF5lBjg )  提取码：nq28 
--  [程序员的数学卷2-概率统计](https://pan.baidu.com/s/1g5CQTJJUSLqZaPvyQbtqmg  )  提取码：p9k
+-  [程序员的数学卷2-概率统计](https://pan.baidu.com/s/1q4Uw5_h0OKk694NuWcb6-Q  )  提取码：12bs
 -  [程序员的数学卷1一 清晰版](https://pan.baidu.com/s/1Tzd6eVEnf2GCgkSg_zTqDQ )  提取码：amqa 
 -  [Operations Research Applications And Algorithms](https://pan.baidu.com/s/1nofFSw9D8u4PPfeYoVJd7g )  提取码：pthp 
 -  [Discrete Mathematics and Its Applications](https://pan.baidu.com/s/1JeUR9gGMAd6WvIvyOo3kBQ )  提取码：yjum
 -  [Computational Complexity_ A Modern Approach](https://pan.baidu.com/s/1y-ldbfKrUbw7gf1sV899_w  )  提取码：5wo8 
-
-
 
 持续更新中。。。。
 
