@@ -36,6 +36,16 @@
 
 
 -  [第二套、侯捷老师全系列八部曲 - 手把手教你进阶系列](https://pan.baidu.com/s/1rNfHasapQuwFf_X0nxfJOQ )  提取码：rb16 
+-  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
+-  [01、C++面向对象高级编程（上）](https://pan.baidu.com/s/1_FFv0cPEPsxpLw66vmZ3BQ )  提取码：51rd
+-  [01、C++面向对象高级编程（下）](https://pan.baidu.com/s/16OrZgRnGooXeocAoN4dKeg)  提取码：0869 
+-  [00 - 侯捷系列-全部课件](https://pan.baidu.com/s/1mAH1wMVPyXFHQNckDv16Xw  )  提取码：poo3 
+-  [03 - 侯捷-C++设计模式](https://pan.baidu.com/s/1ljhdglrfS6GETAWz9bZQfQ)  提取码：zn8n  
+-  [04 - 侯捷-C++新标准C++11&14](https://pan.baidu.com/s/1qoiG_1ZFi6ulSKGvQFZkSw )  提取码：5jl1 
+-  [05 - 侯捷-C++内存管理机制_60_侯捷](https://pan.baidu.com/s/1UcuXs_eOu-5H-veSbtU4IQ )  提取码：b8b3
+-  [06 - 侯捷-C++ Startup 揭密：C++ 程序的生前和死后](https://pan.baidu.com/s/1_m9kEmUWQNCMoiH7e-WHpw)  提取码：adro 
+-  [07、算法原理与实践（选修）](https://pan.baidu.com/s/18jqE_lNuJHTsSkmCb5Laxw)  提取码：7548 
+-  [08、系统设计与实践（选修）](https://pan.baidu.com/s/16Kr9P2fiUlpq3LlL4Ln5yg )  提取码：697b
 -  [第三套、Linux CC++网络编程实践-陈硕](https://pan.baidu.com/s/1OcymYPgisLPsJLFPpuFSJg)  提取码：wv79
 -  [陈硕 - C++实践工程学](https://pan.baidu.com/s/1tg57seNQmTQGPFxFbFOTdQ  )  提取码：blou 
 -  [易学C++](https://pan.baidu.com/s/1hPL7zN0XyVqfQgVTtlyK6g )  提取码：yiwo 
