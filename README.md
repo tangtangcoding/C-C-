@@ -355,8 +355,8 @@
 -  [数据库系统实现（第二版）](https://pan.baidu.com/s/1Ez9ke2T7V4qW35FUAmN7Jg )  提取码：6oi6 
 -  [数据库系统概念](https://pan.baidu.com/s/1SUNmqAEzkf1MkmCP-kCLaQ )  提取码：7bt0 
 -  [数据库系统概念 中文第6版](https://pan.baidu.com/s/1pW8zB8wdes61jbIopBTJGg )  提取码：kqe0  
--  [深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明](https://pan.baidu.com/s/1wLav_DtV3BZJypLpjttBVQ )  提取码：70uf 
--  [高性能MySQL（第3版）](https://pan.baidu.com/s/1LfZ8uVppAJEFyGcuk4UiRg )  提取码：pofh 
+-  [深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明](https://pan.baidu.com/s/11Pxb89VnWTsIefKLs8D4mg )  提取码：zjt8  
+-  [高性能MySQL（第3版）](https://pan.baidu.com/s/1KBqdWuB2Xg78FGKd8gusVg )  提取码：rghv
 -  [分布式数据库系统原理.第3版](https://pan.baidu.com/s/1u2lq6T5ryyr4CoJbYsmihA  )  提取码：arpa  
 -  [分布式数据库系统  大数据时代新型数据库技术__于戈等编著_北京：机械工业出版社](https://pan.baidu.com/s/1T3vKI_LQM3eiMavkLMv88w )  提取码：11nz 
 -  [SQL查询的艺术](https://pan.baidu.com/s/1u72WTSU6Qdi4hG4D9BqUNw )  提取码：lwrz  
