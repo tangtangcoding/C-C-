@@ -272,7 +272,7 @@
 -  [编码：隐匿在计算机软硬件背后的语言英文版](https://pan.baidu.com/s/1Rrjv7hGNmuLtD6gYBNkuyw  )  提取码：g6in 
 
 
-## 8 计算机网路
+## 8 计算机网络
 
 -  [网络是怎样连接的 (图灵程序设计丛书)](https://pan.baidu.com/s/1T5lTH7T_LNLsh9X0yQKqLQ  )  提取码：pmhy   
 -  [图解TCPIP(第5版)](https://pan.baidu.com/s/1jsiabyTcvMpaUpJWOf7kDA )  提取码：j09w 
