@@ -483,11 +483,11 @@
 同时欢迎关注我的知乎与B站
 
 <div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/4.jpg"  width="200" height="200"/>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/4.jpg"  width="200" height="350"/>
 </div>
 
 <div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/5.png"  width="200" height="200"/>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/5.png"  width="200" height="350"/>
 </div>
 
 
