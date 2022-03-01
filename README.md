@@ -3,7 +3,7 @@
 **如果觉得不错，欢迎 Star**  
 一个人在维护这个仓库，很多书需要一步步慢慢上传，只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信(cyuyan2020)，注明来意，我会慢慢添加上去的。  
 我也组建了微信学习交流群，欢迎各位加入，添加下面微信，备注github
-![image]（https://github.com/tangtangcoding/C-C-/commit/c1fc021e79c9d33065c1035864e0a63af98f308a）
+![image]（https://github.com/tangtangcoding/C-C-/blob/main/1.png）
 
 
 
