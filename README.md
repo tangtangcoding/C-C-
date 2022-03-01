@@ -8,16 +8,16 @@
 <img src="https://github.com/tangtangcoding/C-C-/blob/main/1.png"  width="250" height="250"/>
 </div>
 
-同时分享一下我的个人公众号：**C语言与CPP编程**，分享C语言、C++、数据结构预算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
+同时分享一下我的个人公众号：**C语言与CPP编程**，分享C语言、C++、数据结构与算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
 
 <div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/2.jpg"  width="250" height="250"/>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/2.jpg"  width="200" height="200"/>
 </div>
 
-个人公众号：**程序员编程指南**，分享C语言、C++、java、python、go、安卓、数据结构预算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
+个人公众号：**程序员编程指南**，分享C语言、C++、java、python、go、安卓、数据结构域算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
 
 <div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/3.jpg"  width="250" height="250"/>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/3.jpg"  width="200" height="200"/>
 </div>
 
 
