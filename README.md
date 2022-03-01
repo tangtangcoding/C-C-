@@ -5,6 +5,11 @@
 我也组建了微信学习交流群，欢迎各位加入，添加下面微信，备注github  
 ![image](https://github.com/tangtangcoding/C-C-/blob/main/1.png)
 
+<div align=center>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/1.png" width="180" height="105"> width="180" height="105"/>
+</div>
+
+
 
 
 ## 1 C语言
