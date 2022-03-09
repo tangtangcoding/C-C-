@@ -482,6 +482,14 @@
 
 持续更新中。。。。
 
+## 赞赏
+
+如果心情好，不介意赞赏一下，祝君 bug 退散
+<div align=center>
+<img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
+</div>
+
+
 同时欢迎关注我的知乎与B站
 
 <div align=center>
