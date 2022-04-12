@@ -19,12 +19,7 @@
 <div align=center>
 <img src="https://github.com/tangtangcoding/C-C-/blob/main/3.jpg"  width="200" height="200"/>
 </div>
-
-- [牛客网C语言入门](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_gzh_SantiagoN_c)  
-- [牛客网算法入门与刷题](https://www.nowcoder.com/exam/oj?fromPut=pc_gzh_SantiagoN_sf)  
-- [牛客网C++入门](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_SantiagoN_cplus)  
-- [牛客网SQL入门与进阶](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199&fromPut=pc_gzh_SantiagoN_sql)  
-- [牛客网java入门与进阶](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=220&fromPut=pc_gzh_sandmanrockN_java)  
+ 
 
 
 ## 1 C语言
