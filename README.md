@@ -36,14 +36,15 @@
 
 牛客网的开刷题库，可以注册一个，现在免费，后面可能要收费。
 
-## 1 C语言
-
 - [C语言刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_gzh_s_13004091102_c)  
 - [C++刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_s_13004091102_cplus)  
 - [算法刷题](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)   
 - [SQL刷题](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199&fromPut=pc_zh_s_13004091102_sql)  
 
 注：这里只是注册的入口，牛客网换可以刷Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家用上面的链接注册，以后多刷刷题
+
+## 1 C语言
+
 -  [征服C指针](https://pan.baidu.com/s/1e0zPOp-fhGKKKiILGHx_Ew )  提取码：wwcd 
 -  [经典C程序100例](https://pan.baidu.com/s/10HoWoPO_Iz0FVqMhpfP2rQ  )  提取码：t8oe   
 -  [C专家编程](https://pan.baidu.com/s/1Zqt4x3_mCYvGA1m9Hc70pg )  提取码：uso7
