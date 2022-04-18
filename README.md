@@ -34,7 +34,7 @@
 
 ## 牛客网刷题
 
-牛客网的开刷题库，可以注册一个，现在免费，后面可能要收费。
+牛客网的开源刷题库，可以注册一个，现在免费，后面可能要收费。
 
 - [C语言刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_gzh_s_13004091102_c)  
 - [C++刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_s_13004091102_cplus)  
