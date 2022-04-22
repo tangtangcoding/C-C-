@@ -32,16 +32,6 @@
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
 
-## 牛客网刷题
-
-牛客网的开源刷题库，可以注册一个，现在免费，后面可能要收费。
-
-- [C语言刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=291&fromPut=pc_gzh_s_13004091102_c)  
-- [C++刷题](https://www.nowcoder.com/exam/oj?tab=%E8%AF%AD%E6%B3%95%E7%AF%87&topicId=225&fromPut=pc_gzh_s_13004091102_cplus)  
-- [算法刷题](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)   
-- [SQL刷题](https://www.nowcoder.com/exam/oj?tab=SQL%E7%AF%87&topicId=199&fromPut=pc_zh_s_13004091102_sql)  
-
-注：这里只是注册的入口，牛客网换可以刷Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家用上面的链接注册，以后多刷刷题
 
 ## 1 C语言
 
