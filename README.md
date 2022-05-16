@@ -2,7 +2,16 @@
 
 **如果觉得不错，欢迎 Star**  
 一个人在维护这个仓库，很多书需要一步步慢慢上传，只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信：**cyuyan2020**，注明来意，我会慢慢添加上去的。  
-我也组建了微信学习交流群，欢迎各位添加下面微信加入，备注：github  
+我也组建了微信学习交流群，欢迎各位添加下面微信加入，备注：github 
+
+
+强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
+
+- [点击免费注册](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)  
+
+注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
+
+
 
 <div align=center>
 <img src="https://github.com/tangtangcoding/C-C-/blob/main/1.png"  width="250" height="250"/>
@@ -31,6 +40,12 @@
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)  
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)  
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/) 
+
+强烈推荐开源刷题库，可以注册一个，现在免费，后面可能要收费。
+
+- [点击免费注册](https://www.nowcoder.com/exam/oj?tab=%E7%AE%97%E6%B3%95%E7%AF%87&topicId=295&fromPut=pc_zh_s_13004091102_suanfa)  
+
+注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
 
 
 ## 1 C语言
