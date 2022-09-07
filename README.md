@@ -12,22 +12,8 @@
 注：这里只是注册的入口，可以刷算法、C/C++、Java、硬件、前段等，当然还有大厂面经，面试真题，推荐大家注册，以后多刷刷题。修炼好内功！
 
 
+[我的星球圈子你会不会是第一波人].(https://t.zsxq.com/05IyvzBIM)
 
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/1.png"  width="250" height="250"/>
-</div>
-
-同时分享一下我的个人公众号：**C语言与CPP编程**，分享C语言、C++、数据结构与算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/2.jpg"  width="200" height="200"/>
-</div>
-
-个人公众号：**程序员编程指南**，分享C语言、C++、java、python、go、安卓、数据结构域算法、计算机基础、操作系统等，欢迎大家扫下面二维码关注！
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/3.jpg"  width="200" height="200"/>
-</div>
  
  推荐一下自己的C语言学习地址：  
 [github C语言学习地址](https://github.com/tangtangcoding/C-CppLearning)  
@@ -514,16 +500,6 @@
 <img src="https://github.com/tangtangcoding/C-C-/blob/main/6.jpg" width="300" height="450" />
 </div>
 
-
-同时欢迎关注我的知乎与B站
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/4.jpg"  width="200" height="300"/>
-</div>
-
-<div align=center>
-<img src="https://github.com/tangtangcoding/C-C-/blob/main/5.png"  width="200" height="300"/>
-</div>
 
 
 
