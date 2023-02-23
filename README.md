@@ -4,6 +4,8 @@
 一个人在维护这个仓库，很多书需要一步步慢慢上传，只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信：**cpp_2023**，注明来意，我会慢慢添加上去的。  
 我也组建了微信学习交流群，欢迎各位添加下面微信加入，备注：github 
 
+**下载书籍，直接点击书籍名即可**
+
 ## 知名大学计算机系开源课程收录：
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)  
@@ -15,33 +17,33 @@
 
 ## 1 C语言
 
--  [征服C指针](https://pan.baidu.com/s/1e0zPOp-fhGKKKiILGHx_Ew )  提取码：wwcd 
--  [经典C程序100例](https://pan.baidu.com/s/10HoWoPO_Iz0FVqMhpfP2rQ  )  提取码：t8oe   
--  [C专家编程](https://pan.baidu.com/s/1Zqt4x3_mCYvGA1m9Hc70pg )  提取码：uso7
--  [C语言指针经验总结](https://pan.baidu.com/s/1v6rRsBZHFMQxmVDPpItJMw  )  提取码：ibjw 
--  [C语言深度解剖](https://pan.baidu.com/s/18KcTHqx3sYnyBPd9wr4UsQ )  提取码：6qho 
--  [C语言深度解剖 解开程序员面试笔试的秘密](https://pan.baidu.com/s/1tiZPiojVO2XYpsj6iZdcng)  提取码：ffh1 
--  [c语言入门经典(第5版)](https://pan.baidu.com/s/11cWRyRkw0bruMCx1o2Xabw )  提取码：lzro 
--  [C语言解析教程](https://pan.baidu.com/s/162zKIVChLj5NO_hk16kjKw  )  提取码：mfgv  
--  [C语言函数大全](https://pan.baidu.com/s/1J_6Sox35PTV8Ubb-DSnRSA )  提取码：ir2d 
--  [C语言的科学和艺术](https://pan.baidu.com/s/198IWQcTQzbkYt_iVPK8CQA )  提取码：zm88 
--  [C语言答疑解惑与典型题解](https://pan.baidu.com/s/158HXBJpwXzyK5woz1NA5dQ )  提取码：8cw5  
--  [C语言从入门到精通  第2版明日科技](https://pan.baidu.com/s/1t4dcufnZVMEb8xNY0MyrZQ  )  提取码：4s8h  
--  [C语言程序设计_现代方法](https://pan.baidu.com/s/1Y3CpiqSYjS4LZxo3t43qqA  )  提取码：t4vn  
--  [C语言常见问题集（问题提高版）](https://pan.baidu.com/s/1kAuQzyTsmAihKa8UZHrXCg  )  提取码：xto5 
--  [C语言参悟之旅](https://pan.baidu.com/s/1Gxh6hgUL7L3rFQ4FkoDwng  )  提取码：5h1t 
--  [C语言参考手册第五版](https://pan.baidu.com/s/1dXxjpmbiA36TV5sOhlfhjA  )  提取码：t3g1
--  [C语言编程精粹](https://pan.baidu.com/s/1f3jELV0xaRchBv6wVDYIZQ  )  提取码：5oai 
--  [C陷阱与缺陷](https://pan.baidu.com/s/19tUkgpfpjU3N-3aKX7Y6xg  )  提取码：nejz 
--  [C和指针（中文版）](https://pan.baidu.com/s/1CjnR6FbGHJvkEG1AThQQZA )  提取码：1gvd  
--  [C程序设计语言(英文第2版)及其课后题答案](https://pan.baidu.com/s/1HllCwheCvwivaEEMi85izA)  提取码：wzky  
--  [C程序设计语言（第2版 新版）及课后答案](https://pan.baidu.com/s/1SXAXi-AtdcVS33k3EZCatQ )  提取码：rowl 
--  [C 程序设计语言（第2版）](https://pan.baidu.com/s/1n1Nr42g06FvTt5PiqLyWDQ  )  提取码：4s98 
--  [C Primer Plus 中英版](https://pan.baidu.com/s/1PLKZZA0E9-T8iPKx3M2giw  )  提取码：um90  
--  [C Primer Plus 第6版 中文版](https://pan.baidu.com/s/1DXVKEAhd2Agfz0dxi7F9UQ   )  提取码：n30r 
--  [21天学通C语言  第7版](https://pan.baidu.com/s/129wk9RragTHjgf86sHoPQg )  提取码：8fuj 
--  [[学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/1-i_7N12pDkq4O8zske3gRg )  提取码：f44n 
--  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1NgAyb0DoAq3zQvAQI53GXA  )  提取码：bn80  
+-  [征服C指针](https://pan.baidu.com/s/1_8F8l2hnZFhNLqMjrjU1og?pwd=w2e0)  
+-  [经典C程序100例](https://pan.baidu.com/s/1jy7sxc9RdWFEh3bHlOnUFw?pwd=2wp6 )  
+-  [C专家编程](https://pan.baidu.com/s/1HOE2UWtqNxj-mhoj0252XQ?pwd=jyf8)  
+-  [C语言指针经验总结](https://pan.baidu.com/s/1-sSHgGDiL7qTmP3tFgNniQ?pwd=d0tb)  
+-  [C语言深度解剖](https://pan.baidu.com/s/1NePErlbdmQFOEORhgwiidQ?pwd=rose)  
+-  [C语言深度解剖 解开程序员面试笔试的秘密](https://pan.baidu.com/s/1cIOWzucqokS4aMQzpWaZig?pwd=lh3k) 
+-  [c语言入门经典(第5版)](https://pan.baidu.com/s/11cWRyRkw0bruMCx1o2Xabw )  
+-  [C语言解析教程](https://pan.baidu.com/s/17Wr9NKqlHcf0bFbpVAsI6g?pwd=toh5)
+-  [C语言函数大全](https://pan.baidu.com/s/1936dGX04PWKrLHFw7T2ZNw?pwd=8c0d)  
+-  [C语言的科学和艺术](https://pan.baidu.com/s/1rBzoYFbLBut30gx7PqYG5A?pwd=r0tc) 
+-  [C语言答疑解惑与典型题解](https://pan.baidu.com/s/1-6QNSU-xL8mILHbEXY5QgQ?pwd=ckqo)   
+-  [C语言从入门到精通  第2版明日科技](https://pan.baidu.com/s/1Gnm2hYRNpansrNOabMjBGw?pwd=t4d8)   
+-  [C语言程序设计_现代方法](https://pan.baidu.com/s/1dEEe4gL7IugqhYCRaMMDPw?pwd=gyks)   
+-  [C语言常见问题集（问题提高版）](https://pan.baidu.com/s/1enCyHZZWiZL9n_7e3aAlwQ?pwd=mjuh) 
+-  [C语言参悟之旅](https://pan.baidu.com/s/1nxZz17-lrcRgGjjRRzKJCg?pwd=kueg) 
+-  [C语言参考手册第五版](https://pan.baidu.com/s/1rjxu7V6kIjrw32FfmuwG2g?pwd=lyqu)  
+-  [C语言编程精粹](https://pan.baidu.com/s/1IZtPyqGywmyqOzc6_-CGvQ?pwd=cj9v) 
+-  [C陷阱与缺陷](https://pan.baidu.com/s/1b-UIkIC3i-oxXcAlDEVOOw?pwd=22vg)  
+-  [C和指针（中文版）](https://pan.baidu.com/s/1NdipPgm8nVjLXJa8RPIGYg?pwd=s8d1)   
+-  [C程序设计语言(英文第2版)及其课后题答案](https://pan.baidu.com/s/1qcHFodDheHvWwp5oKtdtoA?pwd=41fo)  
+-  [C程序设计语言（第2版 新版）及课后答案](https://pan.baidu.com/s/1qne460CGaoFIBSHcSQLP8w?pwd=3jye)  
+-  [C 程序设计语言（第2版）](https://pan.baidu.com/s/1q6f_4BgvPvQsanw7eHkBgw?pwd=z2c6)  
+-  [C Primer Plus 中英版](https://pan.baidu.com/s/1026ta-SA9DqzIW3wO3w9mQ?pwd=3l3c)   
+-  [C Primer Plus 第6版 中文版](https://pan.baidu.com/s/1cK6z03aFr0sf08Xj39mpPQ?pwd=bdbf)  
+-  [21天学通C语言  第7版](https://pan.baidu.com/s/1ZVCUmvjt8Vj2gW4RbK9-NQ?pwd=pkq1) 
+-  [[学通C语言的24堂课].刘彬彬&孙秀梅](https://pan.baidu.com/s/16ZsqLorpulGp3R7tr8Gerw?pwd=j0il)  
+-  [[C语言必须知道的300个问题].明日科技.扫描版](https://pan.baidu.com/s/1_sqGQcbfCbZsPlQbQre92g?pwd=pe24)  
 
 
 ## 2 C++
